@@ -68,14 +68,15 @@ The input consists of:
 3. **Research Insight Equation**:  
    The overall relationships can be expressed as:  
 
-   ![Research Insight Equation](https://latex.codecogs.com/png.latex?\dpi{150} R=f\left(PDE(P),SDE(P),D(P),T(P)\right))
+   ![Research Insight Equation](https://latex.codecogs.com/svg.latex?R=f\left(PDE(P),SDE(P),D(P),T(P)\right))
 
    Where:  
-   - ![R](https://latex.codecogs.com/png.latex?\dpi{150} R): Research insights from the analysis.  
-   - ![PDE(P)](https://latex.codecogs.com/png.latex?\dpi{150} PDE(P)): Problem Domain Equations in the PDFs \( P \).  
-   - ![SDE(P)](https://latex.codecogs.com/png.latex?\dpi{150} SDE(P)): Solution Domain Equations in the PDFs \( P \).  
-   - ![D(P)](https://latex.codecogs.com/png.latex?\dpi{150} D(P)): Datasets mentioned in the PDFs \( P \).  
-   - ![T(P)](https://latex.codecogs.com/png.latex?\dpi{150} T(P)): Themes extracted from the PDFs \( P \).  
+   - ![R](https://latex.codecogs.com/svg.latex?R): Research insights from the analysis.  
+   - ![PDE(P)](https://latex.codecogs.com/svg.latex?PDE(P)): Problem Domain Equations in the PDFs \( P \).  
+   - ![SDE(P)](https://latex.codecogs.com/svg.latex?SDE(P)): Solution Domain Equations in the PDFs \( P \).  
+   - ![D(P)](https://latex.codecogs.com/svg.latex?D(P)): Datasets mentioned in the PDFs \( P \).  
+   - ![T(P)](https://latex.codecogs.com/svg.latex?T(P)): Themes extracted from the PDFs \( P \).  
+
 
    The workflow for analyzing metadata is:
 
