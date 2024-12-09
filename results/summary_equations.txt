@@ -1,0 +1,2086 @@
+File: Parameterized_Wildfire_Fragility_Functions_for_Overhead_Power_Line_Conductors.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: risk assessment
+
+File: Unexplained_Flashovers_on_High_Voltage_Direct_Current_Transmission_Lines_under_Negative_Polarity_Voltages.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Multiple_Hybrid_AI_Model-based_Optimal_Charging_Profile_of_Lithium-ion_Battery_for_SOH_Enhancement.pdf
+  Category: Both PDE and SDE
+  PDE Subcategories: problem formulation, objective function
+  SDE Subcategories: predictive model, optimization technique, hybrid model
+
+File: Binary_Regresion_Model_for_Automated_Wildfire_Early_Prediction_and_Prevention.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: The_joint_polar_satellite_system__Overview_instruments_proving_ground_and_risk_reduction_activities.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Cyanobacterial_Trends_in_Major_California_Reservoirs_Using_Multispectral_Satellite_Remote_Sensing.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: statistical analysis
+
+File: Improved_Active_Fire_Detection_Using_Operational_U-nets.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Forest_Fire_Prediction_Using_Machine_Learning_Techniques.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Data-Enabled_Correlation_Analysis_between_Wildfire_and_Climate_using_GIS.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Unsupervised_Method_for_Wildfire_Flame_Segmentation_and_Detection.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Causation_Discovery_of_Weather_and_Vegetation_Condition_on_Global_Wildfire_Using_the_PCMCI_Approach.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: data assimilation
+
+File: Review_of_Thermal_Stress_and_Condition_Monitoring_Technologies_for_Overhead_Transmission_Lines_Issues_and_Challenges.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system
+
+File: A_Federated_Learning_Framework_Based_on_Spatio-Temporal_Agnostic_Subsampling_STAS_for_Forest_Fire_Prediction.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Multicriteria_Analysis_For_Identifying_Forest_Fire_Risk_Zones_In_The_Biological_Reserve_Of_The_Sama_Cordillera_Bolivia.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Comparison_of_two_semantic_segmentation_databases_for_smoke_detection.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: An_Efficient_Integrated_approach_of_Fuzzy_C-Means_Map_Reduce_for_Weather_Forecasting_Data_Collection.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Switching_Formation_and_Topology_in_Cooperative_Multi-Agent_Source_Seeking_Using_Gradient_Estimation.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Global_warming_on_your_doorstep.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: simulation model
+
+File: Deep_Learning_Surrogate_Models_of_JULES-INFERNO_for_Wildfire_Prediction_on_a_Global_Scale.pdf
+  Category: Both PDE and SDE
+  PDE Subcategories: boundary conditions, initial conditions
+  SDE Subcategories: data assimilation
+
+File: Network_Engineering_versus_Climate_Change.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Study_on_the_dielectric_characteristics_of_simulation_transmission_line_gap_under_fire_conditions.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Monitoring_of_the_Trend_of_Timberlines_in_Taiwan_Amidst_Climate_Change_Through_Multi-Temporal_Satellite_Images.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Smart_Sensor_System_for_Detection_and_Forecasting_Forest_Fire_Hotspot_in_Riau_Province_Indonesia.pdf
+  Category: Both PDE and SDE
+  PDE Subcategories: temporal dynamics
+  SDE Subcategories: control system
+
+File: Fire-Induced_Charring_of_Common_Residential_Siding_Types.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Emerging_Technologies_for_Prevention_and_Monitoring_of_Forest_Fire.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system
+
+File: Development_of_SBG_Operational_Algorithms_for_Elevated_Temperature_Detection_and_Volcanic_Activity.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Remotely_Monitoring_Forest_Ecosystem_Respiration_During_Fire_Recovery_Across_North_America.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Hierarchal_Application_of_Receding_Horizon_Synthesis_and_Dynamic_Allocation_for_UAVs_Fighting_Fires.pdf
+  Category: PDE-only
+  PDE Subcategories: initial conditions
+  SDE Subcategories: None
+
+File: Forest_Wildfire_Detection_and_Forecasting_Utilizing_Machine_Learning_and_Image_Processing.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: statistical analysis, machine learning model
+
+File: Comparative_Study_of_Image-Based_Fire_Detection_Algorithms.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Impact_of_Jet_Stream_Features_on_Forecast_of_Burned_Areas_in_India_Using_Machine_Learning_During_The_South_Asian_Heatwave_of_2022.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: machine learning model
+
+File: An_Intelligent_Path_Planning_Mechanism_for_Firefighting_in_Wireless_Sensor_and_Actor_Networks.pdf
+  Category: PDE-only
+  PDE Subcategories: objective function
+  SDE Subcategories: None
+
+File: Climate_Change_The_Impact_and_Exploring_The_Path_Forward.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Machine_Learning_Approach_in_Fire_Risk_Estimation.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Early_Detection_of_Forest_Fire_Using_Internet_of_Things.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Prediction_of_Forest_Fire_using_Neural_Network_based_on_Extreme_Learning_Machines_ELM.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Vehicle_and_passenger_protection_through_cooperative_sensor_based_vehicular_networking.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Burn_Severity_Estimation_in_Mendocino_National_Forest_using_BMA_Model_and_Sentinel_Images.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Predicting_Wildfire_Severity_Classes_Using_Machine_Learning_and_Deep_Learning.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: A_Preliminary_Prototype_of_LoRa-Based_Wireless_Sensor_Network_for_Forest_Fire_Monitoring.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Combing_Wildfire_Danger_Index_and_Geo-Kompsat-2A_Geostationary_Meteorological_Satellite_Data_for_Wildfire_Detection.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Robot-based_forest_fire_detection_and_extinguishing_model.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system
+
+File: Optimising_multi-factor_assistance_in_a_deep_learning-based_electricity_forecasting_model_with_climate_resilience_an_Australian_case_study.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Comparative_Study_based_on_Error_Calculation_in_Multiple_Linear_Regression_Coefficient_for_Forest_Fires_Prediction.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: A_Single_Channel_Method_for_Land_Surface_Temperature_Inversion_without_Atmospheric_Correction.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: The_examination_of_land_products_from_GCOM-C1_SGLI.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: FireFly_Project_UAV_Development_for_Distributed_Sensing_of_Forest_Fires.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Exploring_Canopy_Temperature_and_Height_Dynamics_in_Forest_Ecosystems.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Wildfire_Detection_and_Avoidance_of_false_Alarm_Using_Densenet.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: statistical analysis
+
+File: An_integrated_UAV_system_for_wildfire_evolution_monitoring_and_data_acquisition.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Integrated_Wireless_Sensor_Network_and_Machine_Learning_Algorithm_Based_Forest_Fire_Detection_System.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: machine learning model
+
+File: Chronic_Respiratory_Disease_Risk_Modeling_Potential_and_Limitations.pdf
+  Category: PDE-only
+  PDE Subcategories: boundary conditions
+  SDE Subcategories: None
+
+File: Automated_scalable_detection_of_location-specific_Santa_Ana_conditions_from_weather_data_using_unsupervised_learning.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Investigating_the_Lagged_Relationship_between_Smap_Soil_Moisture_and_Live_Fuel_Moisture_in_California_USA.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Optimal_Distribution_System_Operation_for_Enhancing_Resilience_Against_Wildfires.pdf
+  Category: PDE-only
+  PDE Subcategories: objective function
+  SDE Subcategories: None
+
+File: Wildfire_monitoring_and_guidance_system.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Cloud_Assisted_IOT_Enabled_Forest_Fire_Detection_System.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Multi-temporal_remote_sensing_fire_detection_based_on_GBDT_in_Yunnan_area.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: machine learning model
+
+File: Indonesia_Fire_Danger_Rating_System_Ina-FDRS_a_New_Algorithm_for_the_Fire_Prevention_in_Indonesia.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Climate_change_impact_on_bushfire_risk_in_New_South_Wales_Australia.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Estimation_of_Live_Fuel_Moisture_Content_From_Multiple_Sources_of_Remotely_Sensed_Data.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: risk assessment
+
+File: An_Experimental_Evaluation_of_a_Thermal_Energy_Harvesting_System_for_IoNT.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Enhancing_Forest_Fire_Management_in_Malaysia_with_a_Power_BI_Dashboard_Leveraging_VIIRS_Hotspots_and_Environmental_Data.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: risk assessment
+
+File: Comparative_Study_of_Data_Mining_Techniques_for_Predicting_Explosions_in_Coal_Mines.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: statistical analysis, decision support system, hybrid model
+
+File: Deep_Learning_for_Monitoring_the_Ecuadorian_Paramo.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: The_application_of_environmental_data_from_a_real-time_forest_monitoring_system_to_develop_games_as_an_engineering_course_teaching_aid.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Wildfire_Spread_Prediction_using_Machine_Learning_Algorithms.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Analysis_on_flashover_performance_of_polluted_porcelain_insulators_in_high_conductivity_fog_environment.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: RESILIENCE_OF_THE_FRENCH_DISTRIBUTION_NETWORK_TO_CLIMATE_CHANGE_PROJECTED_CHANGES_FOR_MAIN_METEOROLOGICAL_HAZARDS_AROUND_2050.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Insulation_property_of_wire-plane_gap_under_fire_condition_Effects_of_vegetation_flame_conductivity.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Quantized_Tensor_Robust_Principal_Component_Analysis.pdf
+  Category: PDE-only
+  PDE Subcategories: objective function
+  SDE Subcategories: None
+
+File: Design_amp_Development_of_Smart_Electric_Vehicle_Safety_Device_by_using_IoT_and_AI.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system
+
+File: Analysis_of_sensitive_parameters_influencing_a_SPV_WT_Biomass_Battery_based_hybrid_system.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Modeling_of_Tree_Contact_Faults_in_Distribution_Networks.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Web_Dashboard_Development_for_Cloud_Server-Based_Air_Quality_Monitoring_System.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Early_Forest_Fire_Prediction_using_Machine_Learning_Approaches.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: machine learning model
+
+File: NASAs_Surface_Biology_and_Geology_Concept_Study_Status_and_Next_Steps.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Feature_analysis_of_overhead_transmission_line_malfunction_caused_by_wildfires_in_North_China_and_relevant_Preventive_Measures.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: The_effectiveness_of_WMT_activities_to_reduce_hotspots_during_El-Nino_in_20142015_in_Ogan_Komering_Ilir_District_South_Sumatra.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Anti-Poaching_System_for_Protecting_Forest_and_Wildlife_Using_IoT_and_ZigBee_Technology.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Towards_the_Understanding_of_the_C-Band_Temporal_Signature_of_Boreal_Forest_Through_Physiology_Parameters_Retrieval_from_Sentinel-1_Time_Series_and_Machine_Learning.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Using_Power_Infrastructures_for_Wildfire_Detection_in_California.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Microwave_heating_for_lignocellulosic_material.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Design_and_Development_of_Forest_Fire_Monitoring_Terminal.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Developing_the_static_fire_danger_index_using_geospatial_technology.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Prediction_Algorithm_for_Power_Outage_Areas_of_Affected_Customers_Based_on_CNN-LSTM.pdf
+  Category: Both PDE and SDE
+  PDE Subcategories: temporal dynamics
+  SDE Subcategories: risk assessment
+
+File: Breakdown_Characteristics_of_RodPlane_Gap_in_an_Ethanol_Flame.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: A_Hybrid_CMOS-InP_W-Band_Imaging_Radiometer_with_Compact_MetaSurface_Antenna_for_UAV-Based_Wildfire_Imaging.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Himawari_Thermal_Anomaly_Scrutiny_with_Deep_Learning.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: A_Neural_Network_Model_for_Wildfire_Scale_Prediction_Using_Meteorological_Factors.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: predictive model
+
+File: Reanalysis_of_ECMWF_data_for_updating_the_Fire_Weather_Index_for_the_Indonesia_Fire_Danger_Rating_System_InaFDRS.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Electrically_Small_Huygens_Dipole_Rectennas_for_Wirelessly_Powering_Internet-of-Things_Sensors.pdf
+  Category: PDE-only
+  PDE Subcategories: temporal dynamics
+  SDE Subcategories: None
+
+File: Sequential_Patterns_for_hotspot_occurrences_based_weather_datausing_Clospan_algorithm.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Application_of_FY-4B_Geostationary_Meteorological_Satellite_in_Grassland_Fire_Dynamic_Monitoring.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: statistical analysis
+
+File: SensorBFT_Fault-Tolerant_Target_Localization_Using_Voronoi_Diagrams_and_Approximate_Agreement.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: The_Performance_of_Geoinformation_Software_for_Fire_Weather_Forecast.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Effects_of_Land_Surface_Temperature_vs._Air_Temperature_in_Estimating_Live_Fuel_Moisture_Content.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: risk assessment
+
+File: View_from_brusell_Whats_behind_the_EUs_climate_masterplan.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: E-Serve_for_Environment_Monitoring_Using_LoRaWAN.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Suppressing_Forest_Fires_in_Global_Climate_Change_Through_Artificial_Intelligence_A_Case_Study_on_British_Columbia.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Design_and_research_of_a_new_energy-saving_UAV_for_forest_fire_detection.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system
+
+File: Analysis_of_Influential_Barriers_in_Plant_Burgeoning_Using_AHP_Technique.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: A_Comparative_Analysis_of_Time_Series_and_Machine_Learning_Models_for_Wind_Speed_Prediction.pdf
+  Category: Both PDE and SDE
+  PDE Subcategories: objective function
+  SDE Subcategories: machine learning model
+
+File: Explosion_Characteristics_of_a_Premixed_Methane-Air_Vapor_Cloud_Induced_by_a_Jet_Flame.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: A_Parallel_Novelty_Search_Metaheuristic_Applied_to_a_Wildfire_Prediction_System.pdf
+  Category: PDE-only
+  PDE Subcategories: objective function
+  SDE Subcategories: None
+
+File: A_Machine_Learning_Approach_to_Forest_Fire_Prediction_Through_Environment_Parameters.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: machine learning model, hybrid model
+
+File: Evaluation_of_SMAP_Soil_Moisture_Retrieval_Accuracy_Over_a_Boreal_Forest_Region.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Predicting_1-H_Dead_Fuel_Moisture_Content_at_Regional_Scales_Using_Machine_Learning_from_Himawari-8_Data.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: A_Roadmap_to_subdaily_Land_Surface_Temperature.pdf
+  Category: PDE-only
+  PDE Subcategories: temporal dynamics
+  SDE Subcategories: None
+
+File: A_Data_Integration_Framework_with_Multi-Source_Big_Data_for_Enhanced_Forest_Fire_Prediction.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: risk assessment
+
+File: Calculating_the_Fire_Weather_Index_for_US_wildfires_using_a_GPU.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Evaluation_of_wildfire_occurrence_along_high_voltage_power_line_by_remote_sensing_data_A_case_study_in_Xianning_Hubei_China.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Applications_of_Joint_Polar_Satellite_System_Data_and_Products_for_Severe_Weather_Events_and_Climate_Monitoring.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Application_of_Convolutional_Neural_Networks_For_Wild_Fire_Detection.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Forest_Fire_Probability_Prediction_based_on_Humidity_and_Temperature.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: predictive model, machine learning model, control system
+
+File: Predicting_the_Extent_of_Wildfires_Using_Remotely_Sensed_Soil_Moisture_and_Temperature_Trends.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Key_Controlled_Variable_Model_of_MSWI_Process_Based_on_Ensembled_Decision_Tree_Algorithm.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: hybrid model
+
+File: Research_on_smoke_flame_detection_based_on_improved_YOLOv3.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: An_Approach_to_Mine_Data_for_Predicting_Forest_Fires_Using_Support_Vector_Machines_and_Gini_Index_for_Feature_Selection.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: risk assessment, hybrid model
+
+File: MQTT_Protocol_Implementation_for_Monitoring_of_Environmental_Based_on_IoT.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: FPGA_Implementation_of_a_Interval_Type-2_Fuzzy_Inference_Based_Wildfire_Monitoring_System.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Forecasting_Daily_Wildfire_Activity_Using_Poisson_Regression.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: data assimilation
+
+File: Web_Application_and_sensors_for_a_sustainable_forest.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Data_Acquisition_Guide_for_Forest_Fire_Risk_Modelling_in_Malaysia.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: risk assessment
+
+File: The_development_and_design_of_LAPANs_IR_camera_equipped_with_micro_bolometer_sensor.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Dead_Fuel_Moisture_Content_in_Wildfire_Propagation_Potential_Estimation_for_Split-Dalmatia_County.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: statistical analysis, risk assessment
+
+File: Weather_Forecast_Model_Based_on_Decision_Tree_and_Neural_Network.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Development_of_Unmanned_Aerial_Vehicle_UAV_for_Dropping_Object_Accurately_Based_on_Global_Positioning_System.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Climate_Change_Effects_on_Grid_Infrastructure_and_a_Focused_Review_of_Oregon_Response_Opportunities.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Small_Scale_Wind_Field_Display_and_Wind_Motion_Simulation_Based_on_OSG.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: IoT_and_AI_based_Forest_Fire_Prediction_and_Animal_Monitoring_System.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: A_Novel_Approach_to_Early_Fire_Detection_in_a_Semi-Arid_Zone_Using_Drones_and_Internet_of_Things.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Climate_Change_Forecast_for_Forest_Fire_Risk_Prediction_using_Deep_Learning.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: machine learning model
+
+File: Modeling_and_experimental_analysis_of_arc_high_resistance_grounding_fault_of_distribution_network.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Estimating_the_Spread_of_Wildland_Fires_via_Evidence-Based_Information_Fusion.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: data assimilation
+
+File: Estimating_PM_2.5_in_British_Columbia_Before_and_After_Wildfires_using_3_KM_Modis_AOD_Products_from_February_to_August_2017.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Bayesian_Network_Analysis_of_Land-Atmosphere_Interactions_Affecting_Burned_Areas_in_India_During_the_2022_South_Asia_Heatwave.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Investigation_on_the_Relation_between_Zenith_Total_Delay_and_Atmospheric_Particulate_Matter_PM2.5.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: The_Use_of_Satellites_for_Analysis_of_Plantation_Locations_Minimize_Land_Fires_and_Improve_Fertilization.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Is_Land_and_Forest_Fire_in_Ogan_Komering_Ilir_Southern_Sumatera_Affected_by_Climate_Change.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: data assimilation
+
+File: Development_of_an_Air_Temperature_Measuring_Instrument_Used_in_the_Field_of_Meteorological_Detection.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Retrieval_of_Fire_Temperature_and_Fire_Radiative_Power_with_Short-Wave_Infrared_Bands_of_Sentinel-2_Satellite.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Impact_of_Climate_Change_on_Global_Food_Supply_using_Machine_learning_Algorithms.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Delhi_Air_Pollution_Prediction_Based_on_Weather_Conditions_Using_Machine_Learning.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Monitoring_of_coal_waste_piles_with_fiber_optic_sensing_technology.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Predictive_Analytics_for_Early_Electrical_Fire_Detection_in_IoT_Networks_Using_Random_Forest.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Fire_Type_Detection_and_Online_Quickly_Analysis_Based_on_Multi-Sources_Fire_Data.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: statistical analysis
+
+File: Agent_Based_Context_Aware_Data_Aggregation_and_Dissemination_in_Distributed_Multimedia_Sensor_Networks.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Forest_Fire_and_Landmines_Identification_with_the_Support_of_Drones_Surveillance_for_Better_Environmental_Protection_A_Survey.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Application_of_carbon_fiber_composites_in_a_monitoring_Gimbal_platform.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Unfolding_the_contribution_of_environmental_and_anthropogenic_variables_in_forest_fire_over_western_Himalayan_fire_regime.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Enhanced_cooperative_filter_for_wildfire_monitoring.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: simulation model
+
+File: Change_Detection_Mapping_Using_Landsat_Synthetic_Aperture_Radar_Images.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Two-Level_Fuzzy_Based_Fire_Prediction_Scheme_Using_Wireless_Sensor_Network.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Wildfire_Detection_and_Burned_Area_Estimation_Based_on_Multi-source_Spatial_Data.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Investigation_on_simulation_method_of_gaps_discharge_characteristic_under_forest_fire_conditions.pdf
+  Category: PDE-only
+  PDE Subcategories: physical phenomena
+  SDE Subcategories: None
+
+File: Review_Study_on_Recent_Developments_in_Fire_Sensing_Methods.pdf
+  Category: Both PDE and SDE
+  PDE Subcategories: temporal dynamics
+  SDE Subcategories: statistical analysis
+
+File: Research_on_Fault_of_Vegetated_Contact_Phase_of_Low_Voltage_Distribution_Lines.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Removing_Sunlight_Damage_Patterns_in_Shatter-Less_Bolometer_Images_by_Utilizing_Deepspace_Observations.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system
+
+File: IOT_based_Novel_speedy_Detection_of_Forest_fire_using_Sensors_with_improved_accuracy_by_sensing_Temperature_and_Atmospheric_Carbon_Dioxide_Level_using_Node_Microcontroller_Unit_in_comparison_with.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: statistical analysis
+
+File: Collector_A_Vision-Based_Semi-Autonomous_Robot_for_Mangrove_Forest_Exploration_and_Research.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Design_and_implementation_of_a_Wireless_Sensor_Network_to_detect_forest_fires.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Computer_Vision_and_IoT_Enabled_Bot_for_Surveillance_and_Monitoring_of_Forest_and_Large_Farms.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Airborne_parameter_instrumentation_system_for_disaster_supervision_in_smart_cities-a_prototype.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Thermal_Anomaly_Level_Algorithm_for_Active_Fire_Mapping_by_Means_of_Sentinel-2_Data.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Low_soil_moisture_and_high_temperatures_as_indicators_for_forest_fire_occurrence_and_extent_across_the_Iberian_Peninsula.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Cognitive_Fire_Alert_Framework_for_Realizing_Fire_in_Unfriendly_Environment_using_Wireless_Sensor_Network.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: machine learning model
+
+File: Prediction_model_of_forest_fire_area_based_on_the_improved_Extreme_Gradient_Boosting.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Forest_Fire_Detection_Using_nRF24L01_Wireless_Sensor_Network_And_Prediction_by_Machine_Learning_Model.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: machine learning model
+
+File: Design_of_a_Drone_that_Applies_Multisensor_Information_for_the_Early_Detection_of_Forest_Fires.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system
+
+File: An_Acknowledgement_Based_System_for_Forest_Fire_Detection_via_Leach_Algorithm.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: simulation model
+
+File: Novel_cost_effective_multi_sensor_network_for_the_protection_of_national_parks_and_wildlife_from_fire.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Performance_of_LoRa_Gateway_based_Energy_Consumption_and_Different_Frame_Sizes.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Emissivity_Based_Indices_for_Drought_and_Forest_Fire.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Analysis_of_Wildfire_Visualization_Systems_for_Research_and_Training_Are_They_Up_for_the_Challenge_of_the_Current_State_of_Wildfires.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Characteristics_and_Mechanisms_of_Rod-Rod_Electrode_Gap_Breakdown_Induced_by_High-temperature_and_Clean_Flame.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Characterizing_Probability_of_Wildfire_Ignition_Caused_by_Power_Distribution_Lines.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Numerical_Analysis_of_the_Motion_Characteristics_of_Combustion_Particles_in_Gap_based_on_Multi-Physical_Field_Coupling.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: simulation model
+
+File: Quasi_Second-Order_Stochastic_Dominance_Model_for_Balancing_Wildfire_Risks_and_Power_Outages_due_to_Proactive_Public_Safety_De-Energizations.pdf
+  Category: PDE-only
+  PDE Subcategories: objective function
+  SDE Subcategories: None
+
+File: Detection_of_Small_Wildfire_by_Thermal_Infrared_Camera_With_the_Uncooled_Microbolometer_Array_for_50-kg_Class_Satellite.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: IoT_System_for_Forest_Monitoring.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Multi-Pollutant_Ground-level_Air_Pollution_Prediction_through_Deep_MeteoGCN-ConvLSTM.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: predictive model, data assimilation, hybrid model
+
+File: Multi-UAV_Oxyrrhis_Marina-Inspired_Search_and_Dynamic_Formation_Control_for_Forest_Firefighting.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Fuel_Moisture_Content_Forecasting_Using_Long_Short-Term_MemoryLSTM_Model.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Forest_Fire_Risk_Zonation_Mapping_using_Fuzzy_Overlay_Analysis_of_Nainital_District.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: risk assessment
+
+File: Fuzzy_Logic_Based_MPT_Algorithm_for_Reconfigurable_Photovoltaics.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Early_Detection_of_Fire_in_EV_Battery_Using_Machine_Learning_Approach.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Method_for_Land_Cover_Assessment_in_High_Andean_Regions_using_Thermal_Imagery.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Firebird_Small_Satellites_for_Wild_Fire_Assessment.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: SAR_remote_sensing_of_forest_fires_Gallipoli_forest_fire_in_2008.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Influences_of_High_Temperature_and_Solid_Particles_on_Streamer_Discharge_in_Tree-line_Faults.pdf
+  Category: Both PDE and SDE
+  PDE Subcategories: boundary conditions, initial conditions
+  SDE Subcategories: simulation model
+
+File: On_the_Application_of_Modelling_Forest_Fire_in_the_Environment_A_Bayesian_Model_Averaging_Approach.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Analysis_and_Calculation_of_Typical_Influencing_Factors_of_Overhead_Line_Conductor_Sag_Under_Vegetation_Fire_Condition.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Assessing_Wildfire_Impact_on_Soil_Through_Unmanned_Aerial_Vehicle_based_Thermal_Band_Observations.pdf
+  Category: PDE-only
+  PDE Subcategories: boundary conditions
+  SDE Subcategories: None
+
+File: IoT_based_Anti-poaching_and_Fire_Alarm_System_for_Forest.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Analysis_on_Fault_Characteristics_of_Overhead_Transmission_Lines_Caused_by_Gale_Weather_in_North_China_and_Relevant_Countermeasure.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: A_Data-Driven_Model_for_Wildfire_Prediction_in_California.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: predictive model
+
+File: Breakdown_model_of_overhead_transmission_line_conductor-plane_air_gap_caused_by_vegetation_fire.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Forest_Fire_Warning_System_Based_on_GIS_and_WSNs.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system
+
+File: Extreme_Learning_Machine_Approach_for_Prediction_of_Forest_Fires_using_Topographical_and_Metrological_Data_of_Vietnam.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: hybrid model
+
+File: Wireless_Sensor_Network_Framework_for_Early_Detection_and_Warning_of_Forest_Fire.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Study_on_the_flashover_characteristics_of__500kV_DC_transmission_lines_caused_by_forest_fire_under_reduced-voltage_operation.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: predictive model, simulation model
+
+File: Hotspot_Classification_for_Forest_Fire_Prediction_using_C5.0_Algorithm.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: predictive model
+
+File: Satellite_Remote_Sensing_of_Total_Column_Ozone_over_Peninsular_Malaysia.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system
+
+File: Internet-of-Things_Enabled_Forest_Fire_Detection_System.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Advancing_Wildfire_Detection_Using_YOLOv8_on_Multifarious_Images.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: decision support system
+
+File: Prototype_of_early_fire_detection_system_for_home_monitoring_based_on_Wireless_Sensor_Network.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Designing_and_Developing_a_CanSat_for_Environmental_Monitoring_and_Scientific_Exploration.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system
+
+File: Forecasting_Dead_Fuel_Moisture_Content_at_Spatial_Scales_Using_a_Process-Based_Model_with_Global_Forecast_System_Data.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: risk assessment
+
+File: Low_Cost_LoRa_based_Network_for_Forest_Fire_Detection.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Spatial_Data_Mining_technology_for_GIS_a_review.pdf
+  Category: PDE-only
+  PDE Subcategories: spatial modeling
+  SDE Subcategories: None
+
+File: Method_Using_IOT_Low_Earth_Orbit_Satellite_to_Monitor_Forest_Temperature_in_Indonesia.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: PyroScan_Wildfire_Behavior_Prediction_System_using_Unmanned_Aerial_Vehicles_UAV.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Predictive_Modeling_of_Wildfires_in_the_United_States.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: predictive model, machine learning model
+
+File: Multi-Sensor_Approach_to_Assessing_the_Wildfire_Severity-Induced_Landslide_Risk_A_Case_of_Ischia_Island_Italy.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: risk assessment
+
+File: The_Datacenter_Management_System_using_IoT_Sensors.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: risk assessment
+
+File: Designing_a_LoRa-based_Smart_Helmet_to_Aid_in_Emergency_Detection_by_Monitoring_Bio-signals.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: The_OFIDIA_Fire_Danger_Rating_System.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Clairvoyant_Raven.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system
+
+File: Cross-Device_Augmented_Reality_Systems_for_Fire_and_Rescue_based_on_Thermal_Imaging_and_Live_Tracking.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Bushfire_Risk_Detection_Using_Internet_of_Things_An_Application_Scenario.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Identifying_Thermal_Properties_of_Ground_Surface_Derived_by_SAR_and_Laboratory_Measurements.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Towards_the_operational_implementation_of_the_Fire_Weather_Index_FWI_based_on_the_High-Resolution_WRF_Model.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Feature-Level_Fusion_of_Landsat-8_OLI-SWIR_and_TIR_Images_for_Fine_Burned_Area_Change_Detection.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Mountain_fire_smoke_affects_the_safe_operation_of_35_kV_transmission_lines_Experimental_study_on_influence_mechanism.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: risk assessment
+
+File: EcoGuard_Uniting_IoT_and_AI_to_Secure_Forests_and_Combat_Climate_Change_in_Real-Time.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Fire_Danger_Assessment_Based_on_the_Improved_Fire_Weather_Index.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: risk assessment
+
+File: Forest_fire_or_other_dangerous_situations_safety_procedure_for_overhead_lines.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system
+
+File: Forest_Fire_Detection_and_Temperature_Monitoring_Alert_using_IoT_and_Machine_Learning_Algorithm.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: An_Improved_Forest_Fire_Monitoring_Algorithm_With_Three-Dimensional_Otsu.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Selective_Sleep-_awake_Scheduling_in_WSN_-Cloud_Integration.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Wireless_Sensor_Networks_for_Natural_Disaster_Management_-_A_Survey.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system
+
+File: Impact_of_Wildfires_on_Power_Systems.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Wildfire_Detection_Based_on_the_Spatiotemporal_and_Spectral_Features_of_Himawari-8_Data (1).pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: machine learning model
+
+File: A_UAV_with_Autonomy_Pattern_Recognition_for_Forest_Fire_Prevention_and_AI_for_Providing_Advice_to_Firefighters_Fighting_Forest_Fires.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: A_Parallel-based_Air-ground_Integration_System_for_Forest_Ecological_Monitoring.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Deep_Learning_Approach_to_Predict_Forest_Fires_Using_Meteorological_Measurements.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: The_Impact_of_Rising_Temperatures_and_Weather_Patterns_on_Grassland_Fire_Risk_A_Machine_Learning_Approach.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Remote_sensing_of_water_quality_in_a_watershed_and_its_relationship_with_wildfires_precipitation_and_urban_growth.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Measuring_the_Horizontal_Wind_for_Forest_Fire_Monitoring_Using_Multiple_UAVs.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Enhancing_Satellite-Based_Wildfire_Monitoring_Advanced_Contextual_Model_Using_Environmental_and_Structural_Information.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: statistical analysis, machine learning model
+
+File: The_Rain_Prediction_in_Australia_Based_Big_Data_Analysis_and_Machine_Learning_Technology.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Storm_Operation_Prediction_Modeling_the_Occurrence_of_Storm_Operations_for_Fire_Stations.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: RSD_A_Safety_Decision-Making_Algorithm_Under_Cyber_Attacks_for_Natural_Disaster_Monitoring.pdf
+  Category: PDE-only
+  PDE Subcategories: problem formulation
+  SDE Subcategories: None
+
+File: Wildfire_Occurrence_Prediction_Using_Time_Series_Classification_A_Comparative_Study.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: machine learning model
+
+File: Hotspots_Forecasting_Using_Autoregressive_Integrated_Moving_Average_ARIMA_for_Detecting_Forest_Fires.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Comparison_of_Radiosonde_and_Remote_Sensing_Data_to_Evaluate_Convective_Forest_Fire_Risk_The_Haines_Index.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: An_Adaptive_Drone-based_Multigenerational_Sensor_System_for_Monitoring_Large_Ecosystems.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Forest_Fire_Detection_Using_Classifiers_and_Transfer_Learning.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Research_on_the_Mechanism_of_Gap_Breakdown_Characteristics_of_Overhead_Transmission_Line_Under_the_Condition_of_Forest_Fire_Flame.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: statistical analysis
+
+File: Markovian_Wildfire_Modeling_via_Evidential_Reasoning.pdf
+  Category: PDE-only
+  PDE Subcategories: objective function
+  SDE Subcategories: None
+
+File: Spatio-Temporal_Agnostic_Deep_Learning_Modeling_of_Forest_Fire_Prediction_Using_Weather_Data.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Sustainable_Forest_Monitoring_A_Comprehensive_Wireless_Sensor_Solution_Against_Illegal_Logging.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: A_Multisource_Remote_Sensing_Identification_Method_for_Coal_Fire_Zones_Based_on_a_Three-Layer_Ensemble_Learning_Model.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Online_Low-Cost_Air_Quality_Monitoring_System_Using_LoRa-Based_Communication.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Estimation_of_Ground_Water_Level_GWL_for_Tropical_Peatland_Forest_Using_Machine_Learning.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: The_Role_of_Himawari_Rainfall_Data_for_Indonesia_Fire_Danger_Rating_System_Ina-FDRS.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: IoT-Based_Environmental_Monitoring_System_for_Brunei_Peat_Swamp_Forest.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Forest_Fire_Detection_and_Guiding_Animals_to_a_Safe_Area_by_Using_Sensor_Networks_and_Sound.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: AI-Empowered_Peatland_Management_for_Climate-Resilient_and_Sustainable_Future_Challenges_and_Opportunities.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: risk assessment, decision support system
+
+File: Global_satellite_positioning_information_application_of_remote_temperature_measurement_system.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Discharge_Characteristics_of_Conductor-plane_Air_Gap_Under_Vegetation_Fire.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: risk assessment
+
+File: Multi_Sensor_Network_System_for_Early_Detection_and_Prediction_of_Forest_Fires_in_Southeast_Asia.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: A_Personalized_Intelligent_Monitoring_System_for_Rescue_Operations.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: A_Study_on_Automated_Detection_of_Surface_and_Sub-Surface_Coal_Seam_Fires_Using_Isolation_Forest_from_Landsat_8_OLI_TIRS_Images.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: An_IoT_based_Real_Time_Forest_Fire_Detection_amp_Alerting_System_Using_LoRa_Communication.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Modified_Penguin_Search_Algorithm_to_Improve_Feature_Selection_in_Wireless_Sensor_Network.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Preventing_Certain_Powerline_Caused_Wildfires_by_Early_Detection_and_Repair_of_Failing_Devices.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Prediction_of_Forest_Fire_Using_Machine_Learning_Algorithms_The_Search_for_the_Better_Algorithm.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Ground_fault_identification_method_of_distribution_network_in_forest_and_pastoral_areas_based_on_arc_characteristics.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Temporal_Prediction_Model_for_CO_and_CO2_Pollutants_using_Long_Short_Term_Memory.pdf
+  Category: Both PDE and SDE
+  PDE Subcategories: spatial modeling
+  SDE Subcategories: predictive model, data assimilation
+
+File: Application_of_Random_Forests_for_Air_quality_estimation_in_India_by_adopting_terrain_features.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Topological_Data_Analysis_of_Fire_Prone_Weather_Conditions_in_California.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Fire_Monitoring_and_Prevention_System_Based_on_the_Severity_of_Fire_Using_NodeMCU_and_Cloud.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system
+
+File: IOT_Enabled_Forest_Fire_Identification_and_Prevention_System_using_LORA.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Wideband_Measurement_of_the_Phase_Deviation_and_Time-Domain_Response_of_an_Open_Fire.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Studies_on_Big_Data_Mining_Techniques_in_Wildfire_Prevention_for_Power_System.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system, risk assessment, decision support system
+
+File: Relevance_of_Error_Function_in_Input_Parameter_Calibration_in_a_Coupled_Wind_Field_Model-Forest_Fire_Spread_Simulator.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: A_Mesoscale_Modeling_Analysis_of_Green_Roof_Impact_in_the_Thermal_Field_in_the_Mediterranean_Chilean_Urban_Areas.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Implementation_of_Relay-Based_Emergency_Communication_System_on_Software_Defined_Radio.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system
+
+File: Smart_Property_Insurance_using_IoT.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Risk_mapping_of_urban_areas_prone_to_flash_floods_in_mountain_basins_using_the_analytic_hierarchy_process_and_geographical_information_systems.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: View_from_Brussels_International_rescue_EU-style.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Optimal_Wildfire_Escape_Route_Planning_for_Drones_under_Dynamic_Fire_and_Smoke.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: CNN_based_Real-time_Forest_Fire_Detection_System_for_Low-power_Embedded_Devices.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Wildfire_Progression_Prediction_and_Validation_Using_Satellite_Data_and_Remote_Sensing_in_Sonoma_California.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system, risk assessment
+
+File: Deep_Learning_for_Wildfire_Impact_Vegetation_Recovery_and_Soil_Chemistry_Analysis.pdf
+  Category: PDE-only
+  PDE Subcategories: temporal dynamics
+  SDE Subcategories: None
+
+File: A_Remote_Sensing_and_Meteorological_Data-Based_Methodology_for_Wildfire_Danger_Assessment_for_China.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: risk assessment
+
+File: Influence_of_forest_fire_particles_on_the_breakdown_characteristics_of_air_gap.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: simulation model
+
+File: A_Mixed-Method_Approach_Design_of_a_Novel_Sensor_System_to_Measure_Cookstove_Usage_and_Fuel_Consumption.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: The_Joint_Polar_Satellite_System_Overview.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: data assimilation
+
+File: Integrating_IoT_and_Machine_Learning_for_Enhanced_Forest_Fire_Detection_and_Temperature_Monitoring.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Wireless_Non-Destructive_Moisture_Content_Characterization_of_Trees_by_Highly-Sensitive_Compact_Resonating_Probes.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Analysing_Temporal_Hotspot_Occurance_over_Sumatera_and_Kalimantan.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Multi-Scale_Bushfire_Detection_From_Multi-Modal_Streams_of_Remote_Sensing_Data.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Event_Classification_and_Intensity_Discrimination_for_Forest_Fire_Inference_With_IoT.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Forest_Monitoring_System_Using_Sensors_Wireless_Communication_and_Image_Processing.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Comparison_of_Feature_Extraction_to_Test_Dryness_and_Moisture_Levels_in_Burned_Restoration_Areas_Using_Linear_Discriminant_Analysis.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Virtual_Sensors_Method_and_Architecture_for_a_Smart_Home_Environment_with_Random_Forest.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: The_Third_Generation_of_Pan-Canadian_Wetland_Map_at_10_m_Resolution_Using_Multisource_Earth_Observation_Data_on_Cloud_Computing_Platform.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: RSA_based_Forest_fire_spread_detection_using_Drones_and_Image_Processing.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Discrimination_of_Biomass-Burning_Smoke_From_Clouds_Over_the_Ocean_Using_MODIS_Measurements.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Low-power_image_stitching_management_for_reducing_power_consumption_of_UAVs_for_disaster_management_system.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Event-based_clustering_for_composite_event_detection_in_wireless_sensors_networks.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: U.S._Wildfire_Risks_and_Prevention.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: predictive model
+
+File: Multi-Modal_AI_for_Enhanced_Forest_Fire_Early_Detection_Scalar_and_Image_Fusion.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: A_Multi-State_Model_for_Transmission_System_Resilience_Enhancement_Against_Short-Circuit_Faults_Caused_by_Extreme_Weather_Events.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Numerical_Simulation_Study_on_the_Influence_of_Temperature_and_Humidity_on_Streamer_Discharge_in_Rod-Plane_Air_Gap (1).pdf
+  Category: Both PDE and SDE
+  PDE Subcategories: boundary conditions
+  SDE Subcategories: hybrid model
+
+File: Thermal_Decomposition_and_Auto-ignition_of_Finite_Thick_PMMA_in_Forced_Convective_Airflow.pdf
+  Category: Both PDE and SDE
+  PDE Subcategories: initial conditions
+  SDE Subcategories: risk assessment
+
+File: Simulation_Study_on_Arc_Characteristics_of_Single_Phase_Grounding_Overhead_Line_Tree_in_Distribution_Network.pdf
+  Category: Both PDE and SDE
+  PDE Subcategories: boundary conditions
+  SDE Subcategories: simulation model
+
+File: Improving_Nocturnal_Fire_Detection_With_the_VIIRS_DayNight_Band.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Analysis_of_low_voltage_arcing_characteristic_on_direct_short_circuit_through_arcing_thermal_synchronization_sensing_and_short_circuit_current.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Evaluation_of_Machine_Learning_Models_to_Predict_the_Probability_of_Forest_Fires_with_Small_Training_Sample_Case_of_the_Wilaya_of_Sidi_Belabbes.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: IoT_based_Forest_Fire_Detection_and_Protection_System.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Estimation_of_Probability_Density_of_Potential_Fire_Intensity_Using_Quantile_Regression_and_Bi-Directional_Long_Short-Term_Memory.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: risk assessment
+
+File: Power_grid_vulnerability_assessment_against_wildfires_using_probabilistic_progression_estimation_model.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Experimental_Study_on_the_Influence_of_Wildfires_on_the_Insulation_Characteristics_of_35kV_Transmission_Lines.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: risk assessment
+
+File: ML-Based_Wildfire_Prediction_and_Detection.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: predictive model, machine learning model
+
+File: California_Wildfire_Prediction_using_Machine_Learning.pdf
+  Category: PDE-only
+  PDE Subcategories: initial conditions
+  SDE Subcategories: None
+
+File: Resilient_Operation_of_Electric_Power_Distribution_Grids_Under_Progressive_Wildfires.pdf
+  Category: PDE-only
+  PDE Subcategories: objective function
+  SDE Subcategories: None
+
+File: An_IoT-based_Novel_Framework_for_Early_Prediction_of_Forest_Fire.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: SafeBuild_Risk-Based_Analysis_of_Overhead_Electric_Distribution_Facilities.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Preliminary_results_on_UAV-based_forest_fire_localization_based_on_decisional_navigation.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: A_cellular_automata_model_for_forest_fire_spreading_simulation.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Joint_Probability_Evaluation_Model_and_Risk_Visualization_Method_of_Line_Outage_Risk_Caused_by_Wildfires_Based_on_PSO_-_RF.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: risk assessment
+
+File: Analysis_of_Energy_Efficiency_Improvement_Using_Data_Compression_Algorithms_for_Habitat_Monitoring_in_WSNs_Using_Zigbee.pdf
+  Category: PDE-only
+  PDE Subcategories: physical phenomena
+  SDE Subcategories: None
+
+File: Predict_Wildfires_in_Kalimantan_using_MODIS_Products_with_Linear_Regression_Gradient_Boosting_and_Decision_Tree_algorithms.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Dynamic_Cross-Sectional_Temperature_Imaging_From_LAS_Labeled_Electrical_Tomography.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Analysis_of_Temporal_and_Spatial_Pattern_of_North_American_Wildfire_Events_Using_MODIS_MAIAC_Data_Records.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: CompDrone_Towards_Integrated_Computational_Model_and_Social_Drone_Based_Wildfire_Monitoring.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Leveraging_the_Internet_of_Things_IoT_for_Disaster_Management_Enhancing_Resilience_Early_Warning_System_in_a_Globally_Connected_World.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Spontaneous_Ignition_of_Thermally_Thin_and_Intermediate_PMMA_Exposed_to_Linearly_Increasing_Thermal_Radiation.pdf
+  Category: Both PDE and SDE
+  PDE Subcategories: boundary conditions
+  SDE Subcategories: control system
+
+File: Sensor-Based_Satellite_IoT_for_Early_Wildfire_Detection.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Analysis_on_the_Performance_of_Machine_Learning_Models_for_Forest_Fire_Prediction.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Piezoelectric_energy_harvesting_and_management_in_WSN_using_MPPT_algorithm.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Industry__specific_Intelligent_Fire_Management_System_A_survey.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system
+
+File: Equipment_Hardening_Strategies_to_Improve_Distribution_System_Resilience_against_Wildfire.pdf
+  Category: PDE-only
+  PDE Subcategories: problem formulation, objective function
+  SDE Subcategories: None
+
+File: Assessment_of_Fuel_and_Wind_Drivers_of_Fire_Risk_in_Protected_Mountainous_Grassland_of_South_Africa.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: predictive model
+
+File: Real-Time_On-Orbit_Fire_Detection_on_FOREST-2.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Forest_fire_detection_system_reliability_test_using_wireless_sensor_network_and_OpenMTC_communication_platform.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Wildfire_Detection_Based_on_the_Spatiotemporal_and_Spectral_Features_of_Himawari-8_Data.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: machine learning model
+
+File: Prediction_of_Environmental_Earth_Surface_Temperature_using_hybrid_machine_learning_model.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: machine learning model
+
+File: The_Effects_of_Tree_Trunks_on_the_Directional_Emissivity_and_Brightness_Temperatures_of_a_Leaf-Off_Forest_Using_a_Geometric_Optical_Model.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: An_Analysis_of_Machine_Learning_Techniques_for_Forest_Cover_Type_Classification.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: machine learning model
+
+File: Wildfire_Detection_From_Multisensor_Satellite_Imagery_Using_Deep_Semantic_Segmentation.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Green_IoT_Framework_for_Deep_Forest_Surveillance.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: An_analytical_review_on_the_most_widely_used_meteorological_models_in_forest_fire_prediction.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: statistical analysis, risk assessment
+
+File: Prediction_of_Forest_Fire_Occurrence_in_Peatlands_using_Machine_Learning_Approaches.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: hybrid model
+
+File: Research_on_Fire_Risk_Level_Prediction_Based_on_XGBoost_Algorithm.pdf
+  Category: Both PDE and SDE
+  PDE Subcategories: objective function
+  SDE Subcategories: risk assessment
+
+File: FireWatch_LoRa-Connected_Fire_Detection_and_Monitoring_System.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Temperature_Prediction_for_Electric_Vehicles_using_Machine_Learning_Algorithms.pdf
+  Category: PDE-only
+  PDE Subcategories: objective function
+  SDE Subcategories: None
+
+File: Compact-Fire_Infrared_Radiance_Spectral_Tracker_c-FIRST_for_SmallSat_Platform.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Computational_optimizations_in_wildland_fires_for_Bulgarian_test_cases.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Flame_Prediction_Using_Machine_Learning_to_Tackle_Forest_Fires.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: machine learning model
+
+File: Fractional_Forest_Cover_Changes_in_Northeast_China_From_1982_to_2011_and_Its_Relationship_With_Climatic_Variations.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Development_of_High-Performance_Detector_Technology_for_UV_and_IR_Applications.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Lead_Acid_Battery_Parameters_Identification_Modelling_and_Testing_Applied_for_a_Hybrid-Electric_Funicular_Concept.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: simulation model
+
+File: Forecasting_of_Fires_Hotspot_in_Tropical_Region_Using_LSTM_Algorithm_Based_on_Satellite_Data.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: LoRA_Smart_Sensors_for_IoT_Fire_and_Ground_Motion_Safety.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Real-Time_Forest_Fire_Detection_Using_IoT_and_Smart_Sensors.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Global_Ranking_of_Losses_to_Photovoltaic_Power.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Wireless_Sensor_Network_for_Wildfire_Detection_and_Notification_via_Walkie__Talkie_Network.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Spatio-Temporal_Clustering_for_Fire_Hot_Spots_Occurrence_Over_Sulawesi_Island.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: IOT_Based_Surveillance_System_for_Fire_and_Smoke_Detection.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system
+
+File: Wildfire_Detection_Based_On_Himawari-8_Multi-Temporal_Data.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: IoT_Sensor_and_Deep_Neural_Network_based_Wildfire_Prediction_System.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: machine learning model
+
+File: Development_of_Passive_Chipless_RFID_Temperature_Sensor.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: The_efficiency_of_an_automated_centralized_remote_monitoring_system_ACRMS_for_precision_forestry.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: statistical analysis
+
+File: PMU-Driven_Non-Preemptive_Disconnection_of_Overhead_Lines_at_the_Approach_or_Break-Out_of_Forest_Fires.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Simulation_of_forest_carbon_fluxes_over_greater_khingan.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Analysis_of_Increase_in_Average_Temperature_on_Earth_its_Causes_and_Wildfire_Using_Machine_Learning_Techniques.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: predictive model, statistical analysis, machine learning model
+
+File: Numerical_Simulation_Study_on_the_Influence_of_Temperature_and_Humidity_on_Streamer_Discharge_in_Rod-Plane_Air_Gap.pdf
+  Category: Both PDE and SDE
+  PDE Subcategories: boundary conditions
+  SDE Subcategories: hybrid model
+
+File: Bidirectional_Long_Short-Term_Memory_Method_for_Weather_Prediction_in_Terms_of_Evacuation_of_River_Drifting_Victims.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: hybrid model
+
+File: Chipless_RFID_Multisensor_for_Temperature_Sensing_and_Crack_Monitoring_in_an_IoT_Environment.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Optimizing_Sensor_Node_Placement_for_Forest_Fire_Prevention_Using_Clustering_and_Regression.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: predictive model
+
+File: Numerical_solution_of_crown_forest_fire_initiation_and_spread_problem.pdf
+  Category: PDE-only
+  PDE Subcategories: boundary conditions, initial conditions
+  SDE Subcategories: None
+
+File: Rapid_Fire_Detection_amp_Suppression_Using_Advanced_Heat_Sensing_Technique_for_Industrial_Applications.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system, hybrid model
+
+File: Utilizing_MODIS_Fire_Mask_for_Predicting_Forest_Fires_Using_Landsat-9_8_and_Meteorological_Data.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: A_Stochastic_NARX_Neural_Network_to_Investigate_the_Carbon_Capture_in_the_Plantations_of_Forests.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Wildfire_Risk_Prediction_and_Detection_using_Machine_Learning_in_San_Diego_California.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: simulation model, machine learning model
+
+File: Research_on_Fire_Smoke_Detection_Algorithm_Based_on_Improved_YOLOv8.pdf
+  Category: PDE-only
+  PDE Subcategories: environmental interactions
+  SDE Subcategories: None
+
+File: A_review_of_Smart_Grid_Technology_Components_and_Implementation.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system
+
+File: Designing_Appropriate_Sensor_Values_for_Surface_Forest_Fire_Alarm_Systems_Using_IoT.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Operation_Optimization_of_Air_Cooling_System_Based_on_Random_Forest_Algorithm.pdf
+  Category: Both PDE and SDE
+  PDE Subcategories: boundary conditions
+  SDE Subcategories: control system
+
+File: A_Mobile_Inspection_Robot_Design_Analysis_in_ANSYS_Simulation_for_Extreme_Weather_Conditions.pdf
+  Category: PDE-only
+  PDE Subcategories: boundary conditions
+  SDE Subcategories: None
+
+File: Studying_Permafrost-Wildfire_Interactions_in_the_Age_of_Nisar.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: The_Prediction_of_Regional_Wildfire_Risk_Using_High-Resolution_Remotely_Sensed_Soil_Moisture_Content_Estimation_Case_Study_Sidi_Douma_Forest_Saida_Algeria.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: risk assessment
+
+File: Study_on_Forest_Fire_Diffusion_Method_Based_on_Cellular_Automata.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Balancing_Wildfire_Risk_and_Power_Outages_Through_Optimized_Power_Shut-Offs.pdf
+  Category: PDE-only
+  PDE Subcategories: problem formulation, objective function
+  SDE Subcategories: None
+
+File: Resilience_Enhancement_of_Electric_Power_Distribution_Grids_against_Wildfires.pdf
+  Category: PDE-only
+  PDE Subcategories: problem formulation, objective function
+  SDE Subcategories: None
+
+File: Preliminary_study_on_the_validation_of_ECMWF_with_the_ground-based_data_for_the_Indonesia_Fire_Danger_Rating_System_Ina-FDRS.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Applications_of_Neurocomputing_KC-LSTM_in_Prediction_Fire_-_A_Comprehensive_Study_and_Understanding.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: machine learning model
+
+File: Novel_Detection_of_Forest_Fire_using_Temperature_and_Carbon_Dioxide_Sensors_with_Improved_Accuracy_in_Comparison_between_two_Different_Zones.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: statistical analysis
+
+File: Deep_Learning_Applied_to_Forest_Fire_Detection.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Proton_Exchange_Membrane_Fuel_Cell_Thermal_System_Modeling_and_Control.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: A_Method_for_Forest_Fire_Monitoring_Based_on_GA-BP.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Numerical_Estimation_of_Environmental_Wind_Effect_on_Smoke_Evolution_in_a_10-storey_Building.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Analyzing_Long-Term_Artificial_Light_at_Night_Using_Viirs_Monthly_Product_with_Land_Use_Data_Preliminary_Result_of_Hong_Kong.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Experimental_Evaluation_of_Smart_Forest_Fire_Detection_Methodology_using_Internet_of_Things_and_Logical_Sensors.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system
+
+File: Smoulder_Detection_Using_Split-Window_Algorithm_A_Case_Study_From_Baghjan_Oilfield_Assam_India.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Authentication_of_the_Electric_Vehicle_with_the_Charging_Station_Using_AAA_Framework.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: control system
+
+File: A_Modeling_Approach_to_Quantify_Wildfire_Risk_in_Power_Systems_Operations_Using_Data_Availability_and_Deep_Learning_Techniques.pdf
+  Category: Both PDE and SDE
+  PDE Subcategories: objective function, risk metric
+  SDE Subcategories: risk assessment
+
+File: Forest_Fire_Disaster_Classification_Using_Artificial_Neural_Network_Method.pdf
+  Category: SDE-only
+  PDE Subcategories: None
+  SDE Subcategories: machine learning model
+
+File: 3D_inkjet_printed_disposable_environmental_monitoring_wireless_sensor_node.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: A_scalable_approach_for_location-specific_detection_of_Santa_Ana_conditions.pdf
+  Category: Both PDE and SDE
+  PDE Subcategories: objective function
+  SDE Subcategories: statistical analysis
+
+File: Spatial_Hotspot_Data_and_Weather_for_Forest_Fire_Data_Clustering.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Studying_the_factors_affecting_the_risk_of_forest_fire_occurrence_and_applying_neural_networks_for_prediction.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Forest_Fire_Detection_using_LoRa_Wireless_Mesh_Topology.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+File: Cryogenic_Land_Surface_Process_Detection_in_Siberian_High_Latitude_Mountain_Permafrost_Landscape_by_Time_Series_Landsat_Thermal_Imagery.pdf
+  Category: Neither
+  PDE Subcategories: None
+  SDE Subcategories: None
+
+
+Paper Categorization Summary:
+PDE-only: 25
+  Files: Hierarchal_Application_of_Receding_Horizon_Synthesis_and_Dynamic_Allocation_for_UAVs_Fighting_Fires.pdf, An_Intelligent_Path_Planning_Mechanism_for_Firefighting_in_Wireless_Sensor_and_Actor_Networks.pdf, Chronic_Respiratory_Disease_Risk_Modeling_Potential_and_Limitations.pdf, Optimal_Distribution_System_Operation_for_Enhancing_Resilience_Against_Wildfires.pdf, Quantized_Tensor_Robust_Principal_Component_Analysis.pdf, Electrically_Small_Huygens_Dipole_Rectennas_for_Wirelessly_Powering_Internet-of-Things_Sensors.pdf, A_Parallel_Novelty_Search_Metaheuristic_Applied_to_a_Wildfire_Prediction_System.pdf, A_Roadmap_to_subdaily_Land_Surface_Temperature.pdf, Investigation_on_simulation_method_of_gaps_discharge_characteristic_under_forest_fire_conditions.pdf, Quasi_Second-Order_Stochastic_Dominance_Model_for_Balancing_Wildfire_Risks_and_Power_Outages_due_to_Proactive_Public_Safety_De-Energizations.pdf, Assessing_Wildfire_Impact_on_Soil_Through_Unmanned_Aerial_Vehicle_based_Thermal_Band_Observations.pdf, Spatial_Data_Mining_technology_for_GIS_a_review.pdf, RSD_A_Safety_Decision-Making_Algorithm_Under_Cyber_Attacks_for_Natural_Disaster_Monitoring.pdf, Markovian_Wildfire_Modeling_via_Evidential_Reasoning.pdf, Deep_Learning_for_Wildfire_Impact_Vegetation_Recovery_and_Soil_Chemistry_Analysis.pdf, California_Wildfire_Prediction_using_Machine_Learning.pdf, Resilient_Operation_of_Electric_Power_Distribution_Grids_Under_Progressive_Wildfires.pdf, Analysis_of_Energy_Efficiency_Improvement_Using_Data_Compression_Algorithms_for_Habitat_Monitoring_in_WSNs_Using_Zigbee.pdf, Equipment_Hardening_Strategies_to_Improve_Distribution_System_Resilience_against_Wildfire.pdf, Temperature_Prediction_for_Electric_Vehicles_using_Machine_Learning_Algorithms.pdf, Numerical_solution_of_crown_forest_fire_initiation_and_spread_problem.pdf, Research_on_Fire_Smoke_Detection_Algorithm_Based_on_Improved_YOLOv8.pdf, A_Mobile_Inspection_Robot_Design_Analysis_in_ANSYS_Simulation_for_Extreme_Weather_Conditions.pdf, Balancing_Wildfire_Risk_and_Power_Outages_Through_Optimized_Power_Shut-Offs.pdf, Resilience_Enhancement_of_Electric_Power_Distribution_Grids_against_Wildfires.pdf
+SDE-only: 102
+  Files: Parameterized_Wildfire_Fragility_Functions_for_Overhead_Power_Line_Conductors.pdf, Cyanobacterial_Trends_in_Major_California_Reservoirs_Using_Multispectral_Satellite_Remote_Sensing.pdf, Causation_Discovery_of_Weather_and_Vegetation_Condition_on_Global_Wildfire_Using_the_PCMCI_Approach.pdf, Review_of_Thermal_Stress_and_Condition_Monitoring_Technologies_for_Overhead_Transmission_Lines_Issues_and_Challenges.pdf, Global_warming_on_your_doorstep.pdf, Emerging_Technologies_for_Prevention_and_Monitoring_of_Forest_Fire.pdf, Forest_Wildfire_Detection_and_Forecasting_Utilizing_Machine_Learning_and_Image_Processing.pdf, Impact_of_Jet_Stream_Features_on_Forecast_of_Burned_Areas_in_India_Using_Machine_Learning_During_The_South_Asian_Heatwave_of_2022.pdf, Robot-based_forest_fire_detection_and_extinguishing_model.pdf, Wildfire_Detection_and_Avoidance_of_false_Alarm_Using_Densenet.pdf, Integrated_Wireless_Sensor_Network_and_Machine_Learning_Algorithm_Based_Forest_Fire_Detection_System.pdf, Multi-temporal_remote_sensing_fire_detection_based_on_GBDT_in_Yunnan_area.pdf, Estimation_of_Live_Fuel_Moisture_Content_From_Multiple_Sources_of_Remotely_Sensed_Data.pdf, Enhancing_Forest_Fire_Management_in_Malaysia_with_a_Power_BI_Dashboard_Leveraging_VIIRS_Hotspots_and_Environmental_Data.pdf, Comparative_Study_of_Data_Mining_Techniques_for_Predicting_Explosions_in_Coal_Mines.pdf, Design_amp_Development_of_Smart_Electric_Vehicle_Safety_Device_by_using_IoT_and_AI.pdf, Early_Forest_Fire_Prediction_using_Machine_Learning_Approaches.pdf, A_Neural_Network_Model_for_Wildfire_Scale_Prediction_Using_Meteorological_Factors.pdf, Application_of_FY-4B_Geostationary_Meteorological_Satellite_in_Grassland_Fire_Dynamic_Monitoring.pdf, Effects_of_Land_Surface_Temperature_vs._Air_Temperature_in_Estimating_Live_Fuel_Moisture_Content.pdf, Design_and_research_of_a_new_energy-saving_UAV_for_forest_fire_detection.pdf, A_Machine_Learning_Approach_to_Forest_Fire_Prediction_Through_Environment_Parameters.pdf, A_Data_Integration_Framework_with_Multi-Source_Big_Data_for_Enhanced_Forest_Fire_Prediction.pdf, Forest_Fire_Probability_Prediction_based_on_Humidity_and_Temperature.pdf, Key_Controlled_Variable_Model_of_MSWI_Process_Based_on_Ensembled_Decision_Tree_Algorithm.pdf, An_Approach_to_Mine_Data_for_Predicting_Forest_Fires_Using_Support_Vector_Machines_and_Gini_Index_for_Feature_Selection.pdf, Forecasting_Daily_Wildfire_Activity_Using_Poisson_Regression.pdf, Data_Acquisition_Guide_for_Forest_Fire_Risk_Modelling_in_Malaysia.pdf, Dead_Fuel_Moisture_Content_in_Wildfire_Propagation_Potential_Estimation_for_Split-Dalmatia_County.pdf, Climate_Change_Forecast_for_Forest_Fire_Risk_Prediction_using_Deep_Learning.pdf, Estimating_the_Spread_of_Wildland_Fires_via_Evidence-Based_Information_Fusion.pdf, Is_Land_and_Forest_Fire_in_Ogan_Komering_Ilir_Southern_Sumatera_Affected_by_Climate_Change.pdf, Fire_Type_Detection_and_Online_Quickly_Analysis_Based_on_Multi-Sources_Fire_Data.pdf, Enhanced_cooperative_filter_for_wildfire_monitoring.pdf, Removing_Sunlight_Damage_Patterns_in_Shatter-Less_Bolometer_Images_by_Utilizing_Deepspace_Observations.pdf, IOT_based_Novel_speedy_Detection_of_Forest_fire_using_Sensors_with_improved_accuracy_by_sensing_Temperature_and_Atmospheric_Carbon_Dioxide_Level_using_Node_Microcontroller_Unit_in_comparison_with.pdf, Cognitive_Fire_Alert_Framework_for_Realizing_Fire_in_Unfriendly_Environment_using_Wireless_Sensor_Network.pdf, Forest_Fire_Detection_Using_nRF24L01_Wireless_Sensor_Network_And_Prediction_by_Machine_Learning_Model.pdf, Design_of_a_Drone_that_Applies_Multisensor_Information_for_the_Early_Detection_of_Forest_Fires.pdf, An_Acknowledgement_Based_System_for_Forest_Fire_Detection_via_Leach_Algorithm.pdf, Numerical_Analysis_of_the_Motion_Characteristics_of_Combustion_Particles_in_Gap_based_on_Multi-Physical_Field_Coupling.pdf, Multi-Pollutant_Ground-level_Air_Pollution_Prediction_through_Deep_MeteoGCN-ConvLSTM.pdf, Forest_Fire_Risk_Zonation_Mapping_using_Fuzzy_Overlay_Analysis_of_Nainital_District.pdf, A_Data-Driven_Model_for_Wildfire_Prediction_in_California.pdf, Forest_Fire_Warning_System_Based_on_GIS_and_WSNs.pdf, Extreme_Learning_Machine_Approach_for_Prediction_of_Forest_Fires_using_Topographical_and_Metrological_Data_of_Vietnam.pdf, Study_on_the_flashover_characteristics_of__500kV_DC_transmission_lines_caused_by_forest_fire_under_reduced-voltage_operation.pdf, Hotspot_Classification_for_Forest_Fire_Prediction_using_C5.0_Algorithm.pdf, Satellite_Remote_Sensing_of_Total_Column_Ozone_over_Peninsular_Malaysia.pdf, Advancing_Wildfire_Detection_Using_YOLOv8_on_Multifarious_Images.pdf, Designing_and_Developing_a_CanSat_for_Environmental_Monitoring_and_Scientific_Exploration.pdf, Forecasting_Dead_Fuel_Moisture_Content_at_Spatial_Scales_Using_a_Process-Based_Model_with_Global_Forecast_System_Data.pdf, Predictive_Modeling_of_Wildfires_in_the_United_States.pdf, Multi-Sensor_Approach_to_Assessing_the_Wildfire_Severity-Induced_Landslide_Risk_A_Case_of_Ischia_Island_Italy.pdf, The_Datacenter_Management_System_using_IoT_Sensors.pdf, Clairvoyant_Raven.pdf, Mountain_fire_smoke_affects_the_safe_operation_of_35_kV_transmission_lines_Experimental_study_on_influence_mechanism.pdf, Fire_Danger_Assessment_Based_on_the_Improved_Fire_Weather_Index.pdf, Forest_fire_or_other_dangerous_situations_safety_procedure_for_overhead_lines.pdf, Wireless_Sensor_Networks_for_Natural_Disaster_Management_-_A_Survey.pdf, Wildfire_Detection_Based_on_the_Spatiotemporal_and_Spectral_Features_of_Himawari-8_Data (1).pdf, Enhancing_Satellite-Based_Wildfire_Monitoring_Advanced_Contextual_Model_Using_Environmental_and_Structural_Information.pdf, Wildfire_Occurrence_Prediction_Using_Time_Series_Classification_A_Comparative_Study.pdf, Research_on_the_Mechanism_of_Gap_Breakdown_Characteristics_of_Overhead_Transmission_Line_Under_the_Condition_of_Forest_Fire_Flame.pdf, AI-Empowered_Peatland_Management_for_Climate-Resilient_and_Sustainable_Future_Challenges_and_Opportunities.pdf, Discharge_Characteristics_of_Conductor-plane_Air_Gap_Under_Vegetation_Fire.pdf, Fire_Monitoring_and_Prevention_System_Based_on_the_Severity_of_Fire_Using_NodeMCU_and_Cloud.pdf, Studies_on_Big_Data_Mining_Techniques_in_Wildfire_Prevention_for_Power_System.pdf, Implementation_of_Relay-Based_Emergency_Communication_System_on_Software_Defined_Radio.pdf, Wildfire_Progression_Prediction_and_Validation_Using_Satellite_Data_and_Remote_Sensing_in_Sonoma_California.pdf, A_Remote_Sensing_and_Meteorological_Data-Based_Methodology_for_Wildfire_Danger_Assessment_for_China.pdf, Influence_of_forest_fire_particles_on_the_breakdown_characteristics_of_air_gap.pdf, The_Joint_Polar_Satellite_System_Overview.pdf, U.S._Wildfire_Risks_and_Prevention.pdf, Estimation_of_Probability_Density_of_Potential_Fire_Intensity_Using_Quantile_Regression_and_Bi-Directional_Long_Short-Term_Memory.pdf, Experimental_Study_on_the_Influence_of_Wildfires_on_the_Insulation_Characteristics_of_35kV_Transmission_Lines.pdf, ML-Based_Wildfire_Prediction_and_Detection.pdf, Joint_Probability_Evaluation_Model_and_Risk_Visualization_Method_of_Line_Outage_Risk_Caused_by_Wildfires_Based_on_PSO_-_RF.pdf, Industry__specific_Intelligent_Fire_Management_System_A_survey.pdf, Assessment_of_Fuel_and_Wind_Drivers_of_Fire_Risk_in_Protected_Mountainous_Grassland_of_South_Africa.pdf, Wildfire_Detection_Based_on_the_Spatiotemporal_and_Spectral_Features_of_Himawari-8_Data.pdf, Prediction_of_Environmental_Earth_Surface_Temperature_using_hybrid_machine_learning_model.pdf, An_Analysis_of_Machine_Learning_Techniques_for_Forest_Cover_Type_Classification.pdf, An_analytical_review_on_the_most_widely_used_meteorological_models_in_forest_fire_prediction.pdf, Prediction_of_Forest_Fire_Occurrence_in_Peatlands_using_Machine_Learning_Approaches.pdf, Flame_Prediction_Using_Machine_Learning_to_Tackle_Forest_Fires.pdf, Lead_Acid_Battery_Parameters_Identification_Modelling_and_Testing_Applied_for_a_Hybrid-Electric_Funicular_Concept.pdf, IOT_Based_Surveillance_System_for_Fire_and_Smoke_Detection.pdf, IoT_Sensor_and_Deep_Neural_Network_based_Wildfire_Prediction_System.pdf, The_efficiency_of_an_automated_centralized_remote_monitoring_system_ACRMS_for_precision_forestry.pdf, Analysis_of_Increase_in_Average_Temperature_on_Earth_its_Causes_and_Wildfire_Using_Machine_Learning_Techniques.pdf, Bidirectional_Long_Short-Term_Memory_Method_for_Weather_Prediction_in_Terms_of_Evacuation_of_River_Drifting_Victims.pdf, Optimizing_Sensor_Node_Placement_for_Forest_Fire_Prevention_Using_Clustering_and_Regression.pdf, Rapid_Fire_Detection_amp_Suppression_Using_Advanced_Heat_Sensing_Technique_for_Industrial_Applications.pdf, Wildfire_Risk_Prediction_and_Detection_using_Machine_Learning_in_San_Diego_California.pdf, A_review_of_Smart_Grid_Technology_Components_and_Implementation.pdf, The_Prediction_of_Regional_Wildfire_Risk_Using_High-Resolution_Remotely_Sensed_Soil_Moisture_Content_Estimation_Case_Study_Sidi_Douma_Forest_Saida_Algeria.pdf, Applications_of_Neurocomputing_KC-LSTM_in_Prediction_Fire_-_A_Comprehensive_Study_and_Understanding.pdf, Novel_Detection_of_Forest_Fire_using_Temperature_and_Carbon_Dioxide_Sensors_with_Improved_Accuracy_in_Comparison_between_two_Different_Zones.pdf, Experimental_Evaluation_of_Smart_Forest_Fire_Detection_Methodology_using_Internet_of_Things_and_Logical_Sensors.pdf, Authentication_of_the_Electric_Vehicle_with_the_Charging_Station_Using_AAA_Framework.pdf, Forest_Fire_Disaster_Classification_Using_Artificial_Neural_Network_Method.pdf
+Both PDE and SDE: 17
+  Files: Multiple_Hybrid_AI_Model-based_Optimal_Charging_Profile_of_Lithium-ion_Battery_for_SOH_Enhancement.pdf, Deep_Learning_Surrogate_Models_of_JULES-INFERNO_for_Wildfire_Prediction_on_a_Global_Scale.pdf, Smart_Sensor_System_for_Detection_and_Forecasting_Forest_Fire_Hotspot_in_Riau_Province_Indonesia.pdf, Prediction_Algorithm_for_Power_Outage_Areas_of_Affected_Customers_Based_on_CNN-LSTM.pdf, A_Comparative_Analysis_of_Time_Series_and_Machine_Learning_Models_for_Wind_Speed_Prediction.pdf, Review_Study_on_Recent_Developments_in_Fire_Sensing_Methods.pdf, Influences_of_High_Temperature_and_Solid_Particles_on_Streamer_Discharge_in_Tree-line_Faults.pdf, Temporal_Prediction_Model_for_CO_and_CO2_Pollutants_using_Long_Short_Term_Memory.pdf, Numerical_Simulation_Study_on_the_Influence_of_Temperature_and_Humidity_on_Streamer_Discharge_in_Rod-Plane_Air_Gap (1).pdf, Thermal_Decomposition_and_Auto-ignition_of_Finite_Thick_PMMA_in_Forced_Convective_Airflow.pdf, Simulation_Study_on_Arc_Characteristics_of_Single_Phase_Grounding_Overhead_Line_Tree_in_Distribution_Network.pdf, Spontaneous_Ignition_of_Thermally_Thin_and_Intermediate_PMMA_Exposed_to_Linearly_Increasing_Thermal_Radiation.pdf, Research_on_Fire_Risk_Level_Prediction_Based_on_XGBoost_Algorithm.pdf, Numerical_Simulation_Study_on_the_Influence_of_Temperature_and_Humidity_on_Streamer_Discharge_in_Rod-Plane_Air_Gap.pdf, Operation_Optimization_of_Air_Cooling_System_Based_on_Random_Forest_Algorithm.pdf, A_Modeling_Approach_to_Quantify_Wildfire_Risk_in_Power_Systems_Operations_Using_Data_Availability_and_Deep_Learning_Techniques.pdf, A_scalable_approach_for_location-specific_detection_of_Santa_Ana_conditions.pdf
+Neither: 265
+  Files: Unexplained_Flashovers_on_High_Voltage_Direct_Current_Transmission_Lines_under_Negative_Polarity_Voltages.pdf, Binary_Regresion_Model_for_Automated_Wildfire_Early_Prediction_and_Prevention.pdf, The_joint_polar_satellite_system__Overview_instruments_proving_ground_and_risk_reduction_activities.pdf, Improved_Active_Fire_Detection_Using_Operational_U-nets.pdf, Forest_Fire_Prediction_Using_Machine_Learning_Techniques.pdf, Data-Enabled_Correlation_Analysis_between_Wildfire_and_Climate_using_GIS.pdf, Unsupervised_Method_for_Wildfire_Flame_Segmentation_and_Detection.pdf, A_Federated_Learning_Framework_Based_on_Spatio-Temporal_Agnostic_Subsampling_STAS_for_Forest_Fire_Prediction.pdf, Multicriteria_Analysis_For_Identifying_Forest_Fire_Risk_Zones_In_The_Biological_Reserve_Of_The_Sama_Cordillera_Bolivia.pdf, Comparison_of_two_semantic_segmentation_databases_for_smoke_detection.pdf, An_Efficient_Integrated_approach_of_Fuzzy_C-Means_Map_Reduce_for_Weather_Forecasting_Data_Collection.pdf, Switching_Formation_and_Topology_in_Cooperative_Multi-Agent_Source_Seeking_Using_Gradient_Estimation.pdf, Network_Engineering_versus_Climate_Change.pdf, Study_on_the_dielectric_characteristics_of_simulation_transmission_line_gap_under_fire_conditions.pdf, Monitoring_of_the_Trend_of_Timberlines_in_Taiwan_Amidst_Climate_Change_Through_Multi-Temporal_Satellite_Images.pdf, Fire-Induced_Charring_of_Common_Residential_Siding_Types.pdf, Development_of_SBG_Operational_Algorithms_for_Elevated_Temperature_Detection_and_Volcanic_Activity.pdf, Remotely_Monitoring_Forest_Ecosystem_Respiration_During_Fire_Recovery_Across_North_America.pdf, Comparative_Study_of_Image-Based_Fire_Detection_Algorithms.pdf, Climate_Change_The_Impact_and_Exploring_The_Path_Forward.pdf, Machine_Learning_Approach_in_Fire_Risk_Estimation.pdf, Early_Detection_of_Forest_Fire_Using_Internet_of_Things.pdf, Prediction_of_Forest_Fire_using_Neural_Network_based_on_Extreme_Learning_Machines_ELM.pdf, Vehicle_and_passenger_protection_through_cooperative_sensor_based_vehicular_networking.pdf, Burn_Severity_Estimation_in_Mendocino_National_Forest_using_BMA_Model_and_Sentinel_Images.pdf, Predicting_Wildfire_Severity_Classes_Using_Machine_Learning_and_Deep_Learning.pdf, A_Preliminary_Prototype_of_LoRa-Based_Wireless_Sensor_Network_for_Forest_Fire_Monitoring.pdf, Combing_Wildfire_Danger_Index_and_Geo-Kompsat-2A_Geostationary_Meteorological_Satellite_Data_for_Wildfire_Detection.pdf, Optimising_multi-factor_assistance_in_a_deep_learning-based_electricity_forecasting_model_with_climate_resilience_an_Australian_case_study.pdf, Comparative_Study_based_on_Error_Calculation_in_Multiple_Linear_Regression_Coefficient_for_Forest_Fires_Prediction.pdf, A_Single_Channel_Method_for_Land_Surface_Temperature_Inversion_without_Atmospheric_Correction.pdf, The_examination_of_land_products_from_GCOM-C1_SGLI.pdf, FireFly_Project_UAV_Development_for_Distributed_Sensing_of_Forest_Fires.pdf, Exploring_Canopy_Temperature_and_Height_Dynamics_in_Forest_Ecosystems.pdf, An_integrated_UAV_system_for_wildfire_evolution_monitoring_and_data_acquisition.pdf, Automated_scalable_detection_of_location-specific_Santa_Ana_conditions_from_weather_data_using_unsupervised_learning.pdf, Investigating_the_Lagged_Relationship_between_Smap_Soil_Moisture_and_Live_Fuel_Moisture_in_California_USA.pdf, Wildfire_monitoring_and_guidance_system.pdf, Cloud_Assisted_IOT_Enabled_Forest_Fire_Detection_System.pdf, Indonesia_Fire_Danger_Rating_System_Ina-FDRS_a_New_Algorithm_for_the_Fire_Prevention_in_Indonesia.pdf, Climate_change_impact_on_bushfire_risk_in_New_South_Wales_Australia.pdf, An_Experimental_Evaluation_of_a_Thermal_Energy_Harvesting_System_for_IoNT.pdf, Deep_Learning_for_Monitoring_the_Ecuadorian_Paramo.pdf, The_application_of_environmental_data_from_a_real-time_forest_monitoring_system_to_develop_games_as_an_engineering_course_teaching_aid.pdf, Wildfire_Spread_Prediction_using_Machine_Learning_Algorithms.pdf, Analysis_on_flashover_performance_of_polluted_porcelain_insulators_in_high_conductivity_fog_environment.pdf, RESILIENCE_OF_THE_FRENCH_DISTRIBUTION_NETWORK_TO_CLIMATE_CHANGE_PROJECTED_CHANGES_FOR_MAIN_METEOROLOGICAL_HAZARDS_AROUND_2050.pdf, Insulation_property_of_wire-plane_gap_under_fire_condition_Effects_of_vegetation_flame_conductivity.pdf, Analysis_of_sensitive_parameters_influencing_a_SPV_WT_Biomass_Battery_based_hybrid_system.pdf, Modeling_of_Tree_Contact_Faults_in_Distribution_Networks.pdf, Web_Dashboard_Development_for_Cloud_Server-Based_Air_Quality_Monitoring_System.pdf, NASAs_Surface_Biology_and_Geology_Concept_Study_Status_and_Next_Steps.pdf, Feature_analysis_of_overhead_transmission_line_malfunction_caused_by_wildfires_in_North_China_and_relevant_Preventive_Measures.pdf, The_effectiveness_of_WMT_activities_to_reduce_hotspots_during_El-Nino_in_20142015_in_Ogan_Komering_Ilir_District_South_Sumatra.pdf, Anti-Poaching_System_for_Protecting_Forest_and_Wildlife_Using_IoT_and_ZigBee_Technology.pdf, Towards_the_Understanding_of_the_C-Band_Temporal_Signature_of_Boreal_Forest_Through_Physiology_Parameters_Retrieval_from_Sentinel-1_Time_Series_and_Machine_Learning.pdf, Using_Power_Infrastructures_for_Wildfire_Detection_in_California.pdf, Microwave_heating_for_lignocellulosic_material.pdf, Design_and_Development_of_Forest_Fire_Monitoring_Terminal.pdf, Developing_the_static_fire_danger_index_using_geospatial_technology.pdf, Breakdown_Characteristics_of_RodPlane_Gap_in_an_Ethanol_Flame.pdf, A_Hybrid_CMOS-InP_W-Band_Imaging_Radiometer_with_Compact_MetaSurface_Antenna_for_UAV-Based_Wildfire_Imaging.pdf, Himawari_Thermal_Anomaly_Scrutiny_with_Deep_Learning.pdf, Reanalysis_of_ECMWF_data_for_updating_the_Fire_Weather_Index_for_the_Indonesia_Fire_Danger_Rating_System_InaFDRS.pdf, Sequential_Patterns_for_hotspot_occurrences_based_weather_datausing_Clospan_algorithm.pdf, SensorBFT_Fault-Tolerant_Target_Localization_Using_Voronoi_Diagrams_and_Approximate_Agreement.pdf, The_Performance_of_Geoinformation_Software_for_Fire_Weather_Forecast.pdf, View_from_brusell_Whats_behind_the_EUs_climate_masterplan.pdf, E-Serve_for_Environment_Monitoring_Using_LoRaWAN.pdf, Suppressing_Forest_Fires_in_Global_Climate_Change_Through_Artificial_Intelligence_A_Case_Study_on_British_Columbia.pdf, Analysis_of_Influential_Barriers_in_Plant_Burgeoning_Using_AHP_Technique.pdf, Explosion_Characteristics_of_a_Premixed_Methane-Air_Vapor_Cloud_Induced_by_a_Jet_Flame.pdf, Evaluation_of_SMAP_Soil_Moisture_Retrieval_Accuracy_Over_a_Boreal_Forest_Region.pdf, Predicting_1-H_Dead_Fuel_Moisture_Content_at_Regional_Scales_Using_Machine_Learning_from_Himawari-8_Data.pdf, Calculating_the_Fire_Weather_Index_for_US_wildfires_using_a_GPU.pdf, Evaluation_of_wildfire_occurrence_along_high_voltage_power_line_by_remote_sensing_data_A_case_study_in_Xianning_Hubei_China.pdf, Applications_of_Joint_Polar_Satellite_System_Data_and_Products_for_Severe_Weather_Events_and_Climate_Monitoring.pdf, Application_of_Convolutional_Neural_Networks_For_Wild_Fire_Detection.pdf, Predicting_the_Extent_of_Wildfires_Using_Remotely_Sensed_Soil_Moisture_and_Temperature_Trends.pdf, Research_on_smoke_flame_detection_based_on_improved_YOLOv3.pdf, MQTT_Protocol_Implementation_for_Monitoring_of_Environmental_Based_on_IoT.pdf, FPGA_Implementation_of_a_Interval_Type-2_Fuzzy_Inference_Based_Wildfire_Monitoring_System.pdf, Web_Application_and_sensors_for_a_sustainable_forest.pdf, The_development_and_design_of_LAPANs_IR_camera_equipped_with_micro_bolometer_sensor.pdf, Weather_Forecast_Model_Based_on_Decision_Tree_and_Neural_Network.pdf, Development_of_Unmanned_Aerial_Vehicle_UAV_for_Dropping_Object_Accurately_Based_on_Global_Positioning_System.pdf, Climate_Change_Effects_on_Grid_Infrastructure_and_a_Focused_Review_of_Oregon_Response_Opportunities.pdf, Small_Scale_Wind_Field_Display_and_Wind_Motion_Simulation_Based_on_OSG.pdf, IoT_and_AI_based_Forest_Fire_Prediction_and_Animal_Monitoring_System.pdf, A_Novel_Approach_to_Early_Fire_Detection_in_a_Semi-Arid_Zone_Using_Drones_and_Internet_of_Things.pdf, Modeling_and_experimental_analysis_of_arc_high_resistance_grounding_fault_of_distribution_network.pdf, Estimating_PM_2.5_in_British_Columbia_Before_and_After_Wildfires_using_3_KM_Modis_AOD_Products_from_February_to_August_2017.pdf, Bayesian_Network_Analysis_of_Land-Atmosphere_Interactions_Affecting_Burned_Areas_in_India_During_the_2022_South_Asia_Heatwave.pdf, Investigation_on_the_Relation_between_Zenith_Total_Delay_and_Atmospheric_Particulate_Matter_PM2.5.pdf, The_Use_of_Satellites_for_Analysis_of_Plantation_Locations_Minimize_Land_Fires_and_Improve_Fertilization.pdf, Development_of_an_Air_Temperature_Measuring_Instrument_Used_in_the_Field_of_Meteorological_Detection.pdf, Retrieval_of_Fire_Temperature_and_Fire_Radiative_Power_with_Short-Wave_Infrared_Bands_of_Sentinel-2_Satellite.pdf, Impact_of_Climate_Change_on_Global_Food_Supply_using_Machine_learning_Algorithms.pdf, Delhi_Air_Pollution_Prediction_Based_on_Weather_Conditions_Using_Machine_Learning.pdf, Monitoring_of_coal_waste_piles_with_fiber_optic_sensing_technology.pdf, Predictive_Analytics_for_Early_Electrical_Fire_Detection_in_IoT_Networks_Using_Random_Forest.pdf, Agent_Based_Context_Aware_Data_Aggregation_and_Dissemination_in_Distributed_Multimedia_Sensor_Networks.pdf, Forest_Fire_and_Landmines_Identification_with_the_Support_of_Drones_Surveillance_for_Better_Environmental_Protection_A_Survey.pdf, Application_of_carbon_fiber_composites_in_a_monitoring_Gimbal_platform.pdf, Unfolding_the_contribution_of_environmental_and_anthropogenic_variables_in_forest_fire_over_western_Himalayan_fire_regime.pdf, Change_Detection_Mapping_Using_Landsat_Synthetic_Aperture_Radar_Images.pdf, Two-Level_Fuzzy_Based_Fire_Prediction_Scheme_Using_Wireless_Sensor_Network.pdf, Wildfire_Detection_and_Burned_Area_Estimation_Based_on_Multi-source_Spatial_Data.pdf, Research_on_Fault_of_Vegetated_Contact_Phase_of_Low_Voltage_Distribution_Lines.pdf, Collector_A_Vision-Based_Semi-Autonomous_Robot_for_Mangrove_Forest_Exploration_and_Research.pdf, Design_and_implementation_of_a_Wireless_Sensor_Network_to_detect_forest_fires.pdf, Computer_Vision_and_IoT_Enabled_Bot_for_Surveillance_and_Monitoring_of_Forest_and_Large_Farms.pdf, Airborne_parameter_instrumentation_system_for_disaster_supervision_in_smart_cities-a_prototype.pdf, Thermal_Anomaly_Level_Algorithm_for_Active_Fire_Mapping_by_Means_of_Sentinel-2_Data.pdf, Low_soil_moisture_and_high_temperatures_as_indicators_for_forest_fire_occurrence_and_extent_across_the_Iberian_Peninsula.pdf, Prediction_model_of_forest_fire_area_based_on_the_improved_Extreme_Gradient_Boosting.pdf, Novel_cost_effective_multi_sensor_network_for_the_protection_of_national_parks_and_wildlife_from_fire.pdf, Performance_of_LoRa_Gateway_based_Energy_Consumption_and_Different_Frame_Sizes.pdf, Emissivity_Based_Indices_for_Drought_and_Forest_Fire.pdf, Analysis_of_Wildfire_Visualization_Systems_for_Research_and_Training_Are_They_Up_for_the_Challenge_of_the_Current_State_of_Wildfires.pdf, Characteristics_and_Mechanisms_of_Rod-Rod_Electrode_Gap_Breakdown_Induced_by_High-temperature_and_Clean_Flame.pdf, Characterizing_Probability_of_Wildfire_Ignition_Caused_by_Power_Distribution_Lines.pdf, Detection_of_Small_Wildfire_by_Thermal_Infrared_Camera_With_the_Uncooled_Microbolometer_Array_for_50-kg_Class_Satellite.pdf, IoT_System_for_Forest_Monitoring.pdf, Multi-UAV_Oxyrrhis_Marina-Inspired_Search_and_Dynamic_Formation_Control_for_Forest_Firefighting.pdf, Fuel_Moisture_Content_Forecasting_Using_Long_Short-Term_MemoryLSTM_Model.pdf, Fuzzy_Logic_Based_MPT_Algorithm_for_Reconfigurable_Photovoltaics.pdf, Early_Detection_of_Fire_in_EV_Battery_Using_Machine_Learning_Approach.pdf, Method_for_Land_Cover_Assessment_in_High_Andean_Regions_using_Thermal_Imagery.pdf, Firebird_Small_Satellites_for_Wild_Fire_Assessment.pdf, SAR_remote_sensing_of_forest_fires_Gallipoli_forest_fire_in_2008.pdf, On_the_Application_of_Modelling_Forest_Fire_in_the_Environment_A_Bayesian_Model_Averaging_Approach.pdf, Analysis_and_Calculation_of_Typical_Influencing_Factors_of_Overhead_Line_Conductor_Sag_Under_Vegetation_Fire_Condition.pdf, IoT_based_Anti-poaching_and_Fire_Alarm_System_for_Forest.pdf, Analysis_on_Fault_Characteristics_of_Overhead_Transmission_Lines_Caused_by_Gale_Weather_in_North_China_and_Relevant_Countermeasure.pdf, Breakdown_model_of_overhead_transmission_line_conductor-plane_air_gap_caused_by_vegetation_fire.pdf, Wireless_Sensor_Network_Framework_for_Early_Detection_and_Warning_of_Forest_Fire.pdf, Internet-of-Things_Enabled_Forest_Fire_Detection_System.pdf, Prototype_of_early_fire_detection_system_for_home_monitoring_based_on_Wireless_Sensor_Network.pdf, Low_Cost_LoRa_based_Network_for_Forest_Fire_Detection.pdf, Method_Using_IOT_Low_Earth_Orbit_Satellite_to_Monitor_Forest_Temperature_in_Indonesia.pdf, PyroScan_Wildfire_Behavior_Prediction_System_using_Unmanned_Aerial_Vehicles_UAV.pdf, Designing_a_LoRa-based_Smart_Helmet_to_Aid_in_Emergency_Detection_by_Monitoring_Bio-signals.pdf, The_OFIDIA_Fire_Danger_Rating_System.pdf, Cross-Device_Augmented_Reality_Systems_for_Fire_and_Rescue_based_on_Thermal_Imaging_and_Live_Tracking.pdf, Bushfire_Risk_Detection_Using_Internet_of_Things_An_Application_Scenario.pdf, Identifying_Thermal_Properties_of_Ground_Surface_Derived_by_SAR_and_Laboratory_Measurements.pdf, Towards_the_operational_implementation_of_the_Fire_Weather_Index_FWI_based_on_the_High-Resolution_WRF_Model.pdf, Feature-Level_Fusion_of_Landsat-8_OLI-SWIR_and_TIR_Images_for_Fine_Burned_Area_Change_Detection.pdf, EcoGuard_Uniting_IoT_and_AI_to_Secure_Forests_and_Combat_Climate_Change_in_Real-Time.pdf, Forest_Fire_Detection_and_Temperature_Monitoring_Alert_using_IoT_and_Machine_Learning_Algorithm.pdf, An_Improved_Forest_Fire_Monitoring_Algorithm_With_Three-Dimensional_Otsu.pdf, Selective_Sleep-_awake_Scheduling_in_WSN_-Cloud_Integration.pdf, Impact_of_Wildfires_on_Power_Systems.pdf, A_UAV_with_Autonomy_Pattern_Recognition_for_Forest_Fire_Prevention_and_AI_for_Providing_Advice_to_Firefighters_Fighting_Forest_Fires.pdf, A_Parallel-based_Air-ground_Integration_System_for_Forest_Ecological_Monitoring.pdf, Deep_Learning_Approach_to_Predict_Forest_Fires_Using_Meteorological_Measurements.pdf, The_Impact_of_Rising_Temperatures_and_Weather_Patterns_on_Grassland_Fire_Risk_A_Machine_Learning_Approach.pdf, Remote_sensing_of_water_quality_in_a_watershed_and_its_relationship_with_wildfires_precipitation_and_urban_growth.pdf, Measuring_the_Horizontal_Wind_for_Forest_Fire_Monitoring_Using_Multiple_UAVs.pdf, The_Rain_Prediction_in_Australia_Based_Big_Data_Analysis_and_Machine_Learning_Technology.pdf, Storm_Operation_Prediction_Modeling_the_Occurrence_of_Storm_Operations_for_Fire_Stations.pdf, Hotspots_Forecasting_Using_Autoregressive_Integrated_Moving_Average_ARIMA_for_Detecting_Forest_Fires.pdf, Comparison_of_Radiosonde_and_Remote_Sensing_Data_to_Evaluate_Convective_Forest_Fire_Risk_The_Haines_Index.pdf, An_Adaptive_Drone-based_Multigenerational_Sensor_System_for_Monitoring_Large_Ecosystems.pdf, Forest_Fire_Detection_Using_Classifiers_and_Transfer_Learning.pdf, Spatio-Temporal_Agnostic_Deep_Learning_Modeling_of_Forest_Fire_Prediction_Using_Weather_Data.pdf, Sustainable_Forest_Monitoring_A_Comprehensive_Wireless_Sensor_Solution_Against_Illegal_Logging.pdf, A_Multisource_Remote_Sensing_Identification_Method_for_Coal_Fire_Zones_Based_on_a_Three-Layer_Ensemble_Learning_Model.pdf, Online_Low-Cost_Air_Quality_Monitoring_System_Using_LoRa-Based_Communication.pdf, Estimation_of_Ground_Water_Level_GWL_for_Tropical_Peatland_Forest_Using_Machine_Learning.pdf, The_Role_of_Himawari_Rainfall_Data_for_Indonesia_Fire_Danger_Rating_System_Ina-FDRS.pdf, IoT-Based_Environmental_Monitoring_System_for_Brunei_Peat_Swamp_Forest.pdf, Forest_Fire_Detection_and_Guiding_Animals_to_a_Safe_Area_by_Using_Sensor_Networks_and_Sound.pdf, Global_satellite_positioning_information_application_of_remote_temperature_measurement_system.pdf, Multi_Sensor_Network_System_for_Early_Detection_and_Prediction_of_Forest_Fires_in_Southeast_Asia.pdf, A_Personalized_Intelligent_Monitoring_System_for_Rescue_Operations.pdf, A_Study_on_Automated_Detection_of_Surface_and_Sub-Surface_Coal_Seam_Fires_Using_Isolation_Forest_from_Landsat_8_OLI_TIRS_Images.pdf, An_IoT_based_Real_Time_Forest_Fire_Detection_amp_Alerting_System_Using_LoRa_Communication.pdf, Modified_Penguin_Search_Algorithm_to_Improve_Feature_Selection_in_Wireless_Sensor_Network.pdf, Preventing_Certain_Powerline_Caused_Wildfires_by_Early_Detection_and_Repair_of_Failing_Devices.pdf, Prediction_of_Forest_Fire_Using_Machine_Learning_Algorithms_The_Search_for_the_Better_Algorithm.pdf, Ground_fault_identification_method_of_distribution_network_in_forest_and_pastoral_areas_based_on_arc_characteristics.pdf, Application_of_Random_Forests_for_Air_quality_estimation_in_India_by_adopting_terrain_features.pdf, Topological_Data_Analysis_of_Fire_Prone_Weather_Conditions_in_California.pdf, IOT_Enabled_Forest_Fire_Identification_and_Prevention_System_using_LORA.pdf, Wideband_Measurement_of_the_Phase_Deviation_and_Time-Domain_Response_of_an_Open_Fire.pdf, Relevance_of_Error_Function_in_Input_Parameter_Calibration_in_a_Coupled_Wind_Field_Model-Forest_Fire_Spread_Simulator.pdf, A_Mesoscale_Modeling_Analysis_of_Green_Roof_Impact_in_the_Thermal_Field_in_the_Mediterranean_Chilean_Urban_Areas.pdf, Smart_Property_Insurance_using_IoT.pdf, Risk_mapping_of_urban_areas_prone_to_flash_floods_in_mountain_basins_using_the_analytic_hierarchy_process_and_geographical_information_systems.pdf, View_from_Brussels_International_rescue_EU-style.pdf, Optimal_Wildfire_Escape_Route_Planning_for_Drones_under_Dynamic_Fire_and_Smoke.pdf, CNN_based_Real-time_Forest_Fire_Detection_System_for_Low-power_Embedded_Devices.pdf, A_Mixed-Method_Approach_Design_of_a_Novel_Sensor_System_to_Measure_Cookstove_Usage_and_Fuel_Consumption.pdf, Integrating_IoT_and_Machine_Learning_for_Enhanced_Forest_Fire_Detection_and_Temperature_Monitoring.pdf, Wireless_Non-Destructive_Moisture_Content_Characterization_of_Trees_by_Highly-Sensitive_Compact_Resonating_Probes.pdf, Analysing_Temporal_Hotspot_Occurance_over_Sumatera_and_Kalimantan.pdf, Multi-Scale_Bushfire_Detection_From_Multi-Modal_Streams_of_Remote_Sensing_Data.pdf, Event_Classification_and_Intensity_Discrimination_for_Forest_Fire_Inference_With_IoT.pdf, Forest_Monitoring_System_Using_Sensors_Wireless_Communication_and_Image_Processing.pdf, Comparison_of_Feature_Extraction_to_Test_Dryness_and_Moisture_Levels_in_Burned_Restoration_Areas_Using_Linear_Discriminant_Analysis.pdf, Virtual_Sensors_Method_and_Architecture_for_a_Smart_Home_Environment_with_Random_Forest.pdf, The_Third_Generation_of_Pan-Canadian_Wetland_Map_at_10_m_Resolution_Using_Multisource_Earth_Observation_Data_on_Cloud_Computing_Platform.pdf, RSA_based_Forest_fire_spread_detection_using_Drones_and_Image_Processing.pdf, Discrimination_of_Biomass-Burning_Smoke_From_Clouds_Over_the_Ocean_Using_MODIS_Measurements.pdf, Low-power_image_stitching_management_for_reducing_power_consumption_of_UAVs_for_disaster_management_system.pdf, Event-based_clustering_for_composite_event_detection_in_wireless_sensors_networks.pdf, Multi-Modal_AI_for_Enhanced_Forest_Fire_Early_Detection_Scalar_and_Image_Fusion.pdf, A_Multi-State_Model_for_Transmission_System_Resilience_Enhancement_Against_Short-Circuit_Faults_Caused_by_Extreme_Weather_Events.pdf, Improving_Nocturnal_Fire_Detection_With_the_VIIRS_DayNight_Band.pdf, Analysis_of_low_voltage_arcing_characteristic_on_direct_short_circuit_through_arcing_thermal_synchronization_sensing_and_short_circuit_current.pdf, Evaluation_of_Machine_Learning_Models_to_Predict_the_Probability_of_Forest_Fires_with_Small_Training_Sample_Case_of_the_Wilaya_of_Sidi_Belabbes.pdf, IoT_based_Forest_Fire_Detection_and_Protection_System.pdf, Power_grid_vulnerability_assessment_against_wildfires_using_probabilistic_progression_estimation_model.pdf, An_IoT-based_Novel_Framework_for_Early_Prediction_of_Forest_Fire.pdf, SafeBuild_Risk-Based_Analysis_of_Overhead_Electric_Distribution_Facilities.pdf, Preliminary_results_on_UAV-based_forest_fire_localization_based_on_decisional_navigation.pdf, A_cellular_automata_model_for_forest_fire_spreading_simulation.pdf, Predict_Wildfires_in_Kalimantan_using_MODIS_Products_with_Linear_Regression_Gradient_Boosting_and_Decision_Tree_algorithms.pdf, Dynamic_Cross-Sectional_Temperature_Imaging_From_LAS_Labeled_Electrical_Tomography.pdf, Analysis_of_Temporal_and_Spatial_Pattern_of_North_American_Wildfire_Events_Using_MODIS_MAIAC_Data_Records.pdf, CompDrone_Towards_Integrated_Computational_Model_and_Social_Drone_Based_Wildfire_Monitoring.pdf, Leveraging_the_Internet_of_Things_IoT_for_Disaster_Management_Enhancing_Resilience_Early_Warning_System_in_a_Globally_Connected_World.pdf, Sensor-Based_Satellite_IoT_for_Early_Wildfire_Detection.pdf, Analysis_on_the_Performance_of_Machine_Learning_Models_for_Forest_Fire_Prediction.pdf, Piezoelectric_energy_harvesting_and_management_in_WSN_using_MPPT_algorithm.pdf, Real-Time_On-Orbit_Fire_Detection_on_FOREST-2.pdf, Forest_fire_detection_system_reliability_test_using_wireless_sensor_network_and_OpenMTC_communication_platform.pdf, The_Effects_of_Tree_Trunks_on_the_Directional_Emissivity_and_Brightness_Temperatures_of_a_Leaf-Off_Forest_Using_a_Geometric_Optical_Model.pdf, Wildfire_Detection_From_Multisensor_Satellite_Imagery_Using_Deep_Semantic_Segmentation.pdf, Green_IoT_Framework_for_Deep_Forest_Surveillance.pdf, FireWatch_LoRa-Connected_Fire_Detection_and_Monitoring_System.pdf, Compact-Fire_Infrared_Radiance_Spectral_Tracker_c-FIRST_for_SmallSat_Platform.pdf, Computational_optimizations_in_wildland_fires_for_Bulgarian_test_cases.pdf, Fractional_Forest_Cover_Changes_in_Northeast_China_From_1982_to_2011_and_Its_Relationship_With_Climatic_Variations.pdf, Development_of_High-Performance_Detector_Technology_for_UV_and_IR_Applications.pdf, Forecasting_of_Fires_Hotspot_in_Tropical_Region_Using_LSTM_Algorithm_Based_on_Satellite_Data.pdf, LoRA_Smart_Sensors_for_IoT_Fire_and_Ground_Motion_Safety.pdf, Real-Time_Forest_Fire_Detection_Using_IoT_and_Smart_Sensors.pdf, Global_Ranking_of_Losses_to_Photovoltaic_Power.pdf, Wireless_Sensor_Network_for_Wildfire_Detection_and_Notification_via_Walkie__Talkie_Network.pdf, Spatio-Temporal_Clustering_for_Fire_Hot_Spots_Occurrence_Over_Sulawesi_Island.pdf, Wildfire_Detection_Based_On_Himawari-8_Multi-Temporal_Data.pdf, Development_of_Passive_Chipless_RFID_Temperature_Sensor.pdf, PMU-Driven_Non-Preemptive_Disconnection_of_Overhead_Lines_at_the_Approach_or_Break-Out_of_Forest_Fires.pdf, Simulation_of_forest_carbon_fluxes_over_greater_khingan.pdf, Chipless_RFID_Multisensor_for_Temperature_Sensing_and_Crack_Monitoring_in_an_IoT_Environment.pdf, Utilizing_MODIS_Fire_Mask_for_Predicting_Forest_Fires_Using_Landsat-9_8_and_Meteorological_Data.pdf, A_Stochastic_NARX_Neural_Network_to_Investigate_the_Carbon_Capture_in_the_Plantations_of_Forests.pdf, Designing_Appropriate_Sensor_Values_for_Surface_Forest_Fire_Alarm_Systems_Using_IoT.pdf, Studying_Permafrost-Wildfire_Interactions_in_the_Age_of_Nisar.pdf, Study_on_Forest_Fire_Diffusion_Method_Based_on_Cellular_Automata.pdf, Preliminary_study_on_the_validation_of_ECMWF_with_the_ground-based_data_for_the_Indonesia_Fire_Danger_Rating_System_Ina-FDRS.pdf, Deep_Learning_Applied_to_Forest_Fire_Detection.pdf, Proton_Exchange_Membrane_Fuel_Cell_Thermal_System_Modeling_and_Control.pdf, A_Method_for_Forest_Fire_Monitoring_Based_on_GA-BP.pdf, Numerical_Estimation_of_Environmental_Wind_Effect_on_Smoke_Evolution_in_a_10-storey_Building.pdf, Analyzing_Long-Term_Artificial_Light_at_Night_Using_Viirs_Monthly_Product_with_Land_Use_Data_Preliminary_Result_of_Hong_Kong.pdf, Smoulder_Detection_Using_Split-Window_Algorithm_A_Case_Study_From_Baghjan_Oilfield_Assam_India.pdf, 3D_inkjet_printed_disposable_environmental_monitoring_wireless_sensor_node.pdf, Spatial_Hotspot_Data_and_Weather_for_Forest_Fire_Data_Clustering.pdf, Studying_the_factors_affecting_the_risk_of_forest_fire_occurrence_and_applying_neural_networks_for_prediction.pdf, Forest_Fire_Detection_using_LoRa_Wireless_Mesh_Topology.pdf, Cryogenic_Land_Surface_Process_Detection_in_Siberian_High_Latitude_Mountain_Permafrost_Landscape_by_Time_Series_Landsat_Thermal_Imagery.pdf
+
+PDE Subcategory Counts:
+problem formulation: 5
+physical phenomena: 2
+objective function: 16
+boundary conditions: 11
+initial conditions: 6
+constraint definition: 0
+risk metric: 1
+data relationships: 0
+environmental interactions: 1
+uncertainty representation: 0
+temporal dynamics: 6
+spatial modeling: 2
+
+SDE Subcategory Counts:
+method implementation: 0
+predictive model: 14
+optimization technique: 1
+validation framework: 0
+simulation model: 10
+statistical analysis: 16
+machine learning model: 25
+data assimilation: 8
+resource allocation model: 0
+control system: 27
+cost-effectiveness analysis: 0
+risk assessment: 28
+decision support system: 4
+hybrid model: 12
+adaptive algorithm: 0
